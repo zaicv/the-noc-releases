@@ -3,10 +3,17 @@
     <channel>
         <title>The N.O.C.</title>
         <item>
+            <title>The N.O.C. v1.3.5</title>
+            <pubDate>Thu, 06 Aug 2026 16:26:43 +0000</pubDate>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[commit ai]]></description>
+            <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/v1.3.5/TheNOC-1.3.5.dmg" sparkle:version="202608061125" sparkle:shortVersionString="1.3.5" sparkle:edSignature="+9IW3F7nNFUvE1j+B2sUul2taNS23RCeqPnmCuL2dGzroRY3gRdkIHmd+xc6pI9P7wiO6bDF4gL5izqgqiAiBQ==" length="4469703" type="application/octet-stream" />
+        </item>
+        <item>
             <title>The N.O.C. v1.3.0</title>
             <pubDate>Thu, 06 Aug 2026 16:12:12 +0000</pubDate>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Sync protect]]></description>
+            <description>Sync protect</description>
             <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/v1.3.0/TheNOC-1.3.0.dmg" sparkle:version="202608061110" sparkle:shortVersionString="1.3.0" sparkle:edSignature="tYQuq4q4F926hg81m59D8/8/CjBlreJTr+c+vn2eIHCIlAiEG2OYy01iz/VVNSGyIMsAQGFUdJQRK/VIuAXMCg==" length="4461964" type="application/octet-stream" />
         </item>
     </channel>
