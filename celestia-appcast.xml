@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.9</title>
+      <pubDate>Wed, 02 Sep 2026 10:46:25 -0500</pubDate>
+      <sparkle:version>202609021044</sparkle:version>
+      <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes edits from a client failing to save when that Mac was set to need approval — Celestia now identifies itself as a person, and a person's own save is never queued for their own review. The vault index is fetched incrementally instead of whole, so an edit costs kilobytes rather than megabytes on every connected Mac.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.3.9/Celestia-1.3.9.dmg" length="4726966" type="application/octet-stream" sparkle:edSignature="a33O50LbedoewZQkNTorgeybkc20a/3K2aWE51QE5PRaTT95aazqMbFSBEUprhOgV2KbjAk6Ysh9YaFtnuWWDg==" />
+    </item>
+    <item>
       <title>Version 1.3.8</title>
       <pubDate>Wed, 02 Sep 2026 10:12:12 -0500</pubDate>
       <sparkle:version>202609021011</sparkle:version>
