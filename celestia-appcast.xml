@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.1</title>
+      <pubDate>Wed, 02 Sep 2026 11:18:16 -0500</pubDate>
+      <sparkle:version>202609021117</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Locking a file on the home Mac now reaches connected Macs immediately instead of waiting for an unrelated change.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.1/Celestia-1.4.1.dmg" length="4759957" type="application/octet-stream" sparkle:edSignature="MDfdIPGFMtMcv+0YE2y6NlwZcWBdJY/jE9IYqpcGfIGXDZJgmmCzxP39qQ4VJHOHwW7PIc3BKuuQKmx09+deBQ==" />
+    </item>
+    <item>
       <title>Version 1.4.0</title>
       <pubDate>Wed, 02 Sep 2026 11:10:50 -0500</pubDate>
       <sparkle:version>202609021110</sparkle:version>
