@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.7</title>
+      <pubDate>Wed, 02 Sep 2026 10:09:04 -0500</pubDate>
+      <sparkle:version>202609021007</sparkle:version>
+      <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Much faster in Finder. Browsing a folder used to re-download the entire vault index for every single file it showed; it is now fetched once, shared, and kept up to date with real incremental changes instead of a full re-read on every edit. Transient network drops retry instead of leaving an error badge. Adds a Developer Log window with verbose tracing, on clients as well as the home server.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.3.7/Celestia-1.3.7.dmg" length="4714297" type="application/octet-stream" sparkle:edSignature="UXxm/QP/wdiLH1ihvp+3bpBH/nm7IPPBHfSXDDCTmBjmmzhNMbsoba95o4NqZ8scXbIYzFn0IU8l/YU8yXhjCw==" />
+    </item>
+    <item>
       <title>Version 1.3.6</title>
       <pubDate>Wed, 02 Sep 2026 08:22:46 -0500</pubDate>
       <sparkle:version>202609020822</sparkle:version>
