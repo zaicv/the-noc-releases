@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.2</title>
+      <pubDate>Wed, 02 Sep 2026 13:04:04 -0500</pubDate>
+      <sparkle:version>202609021303</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes the Finder right-click menu, the lock badge and the updated badge labels not appearing: the extension's own version had never changed since the first release, so macOS kept serving cached metadata from that install.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.2/Celestia-1.4.2.dmg" length="4759976" type="application/octet-stream" sparkle:edSignature="UsDUJVx7g3ynjGWrtCFRNQpwJbzBZi36a07C/KO6hbLnDcd+PfETGAuNBdQQ2jv4PjrVsbEK9qWspCOKF/+IDA==" />
+    </item>
+    <item>
       <title>Version 1.4.1</title>
       <pubDate>Wed, 02 Sep 2026 11:18:16 -0500</pubDate>
       <sparkle:version>202609021117</sparkle:version>
