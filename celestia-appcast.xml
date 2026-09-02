@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.1</title>
+      <pubDate>Tue, 01 Sep 2026 22:47:07 -0500</pubDate>
+      <sparkle:version>202609012246</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fix: dev/test builds no longer share production state with the installed app on the same Mac.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.3.1/Celestia-1.3.1.dmg" length="4612153" type="application/octet-stream" sparkle:edSignature="DndKm4Ivahr7ZCV3UUA/Y3Andx7RDpZNSn0YiheiIi2aoD3t6HyhFcHejuVbKHm4L1aSz/G8qyYMZvplQ4qEBw==" />
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Tue, 01 Sep 2026 22:32:49 -0500</pubDate>
       <sparkle:version>202609012231</sparkle:version>
