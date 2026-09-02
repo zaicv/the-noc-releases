@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.5</title>
+      <pubDate>Wed, 02 Sep 2026 08:14:02 -0500</pubDate>
+      <sparkle:version>202609020813</sparkle:version>
+      <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fix: the vault mounted on a client Mac but showed nothing, and auto-update was rejected as improperly signed. Both are fixed; updating by hand from this DMG is needed once.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.3.5/Celestia-1.3.5.dmg" length="4618003" type="application/octet-stream" sparkle:edSignature="RE53JD1BeMaRxC3sagjvNKkx9g3FM+17l2dHof8MOyxGjBs8JLocGQ2lk+gpFWR02TLA9WZOFOBEyINUxrc0Cg==" />
+    </item>
+    <item>
       <title>Version 1.3.4</title>
       <pubDate>Wed, 02 Sep 2026 00:04:13 -0500</pubDate>
       <sparkle:version>202609020003</sparkle:version>
