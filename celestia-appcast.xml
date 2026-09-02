@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Wed, 02 Sep 2026 11:10:50 -0500</pubDate>
+      <sparkle:version>202609021110</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Lock any file or folder from Finder's right-click menu — a locked item cannot be changed, renamed, moved or deleted by anything, including agents, because it uses macOS's own immutable flag rather than a marker only Celestia would respect. Cloud badges now explain themselves: Finder's native progress and error UI show what is happening and what went wrong. New right-click actions: Copy Vault Path, Open in Obsidian, Check the Vault for Changes. Editing a note's body no longer reformats its frontmatter.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.0/Celestia-1.4.0.dmg" length="4759550" type="application/octet-stream" sparkle:edSignature="XHsh9njAqh7ywRAz1sgBpL8/h/CG/Jb+NzVSGZ7hE04GsBYXtcCoHZ6TiBhAok+cHHa6vlUe1cbEP0dM4pScCA==" />
+    </item>
+    <item>
       <title>Version 1.3.9</title>
       <pubDate>Wed, 02 Sep 2026 10:46:25 -0500</pubDate>
       <sparkle:version>202609021044</sparkle:version>
