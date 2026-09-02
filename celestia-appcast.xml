@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Tue, 01 Sep 2026 20:44:06 -0500</pubDate>
+      <sparkle:version>202609012043</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Celestia is now the whole product. Register the vault with Claude Desktop and Claude Code in one click, watch vault health, and review agent writes before they land. Installs and keeps the noc command in step with the server.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.2.0/Celestia-1.2.0.dmg" length="4550645" type="application/octet-stream" sparkle:edSignature="H4UwP9Y1bKmE4e+yi7pQmoseyE4mBc5y2s/1u+PmpqD5h1I53VjDxY2N2ukVJjEk9obE2YnJtO6Tqf3L1N1QDw==" />
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Tue, 01 Sep 2026 17:31:00 -0500</pubDate>
       <sparkle:version>202609011730</sparkle:version>
