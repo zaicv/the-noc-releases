@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.9</title>
+      <pubDate>Wed, 02 Sep 2026 23:15:05 -0500</pubDate>
+      <sparkle:version>202609022313</sparkle:version>
+      <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Right-click actions now run against the file you selected. They were being handled in the wrong extension, which receives internal system identifiers rather than the file's real location.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.9/Celestia-1.4.9.dmg" length="4806404" type="application/octet-stream" sparkle:edSignature="6ckBTVrgUuVIgUmpLyE4IBTwLN3+HM+2w4Fi02X+OriGCEhJt7SsD+bN380XlAHAFSun5e064QGtgX09y8THBw==" />
+    </item>
+    <item>
       <title>Version 1.4.8</title>
       <pubDate>Wed, 02 Sep 2026 22:59:34 -0500</pubDate>
       <sparkle:version>202609022258</sparkle:version>
