@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.1</title>
+      <pubDate>Thu, 03 Sep 2026 15:38:42 -0500</pubDate>
+      <sparkle:version>202609031536</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The noc command is installed as a small launcher instead of a copy, so macOS no longer removes it as malware — this was silently breaking the Claude MCP connection.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.6.1/Celestia-1.6.1.dmg" length="4884059" type="application/octet-stream" sparkle:edSignature="RmOTGEU9acO5UFs+0HKa54MtlrPcNaGR4Sc1sp2Er3MXOKx8KeUHN7CHzxhamqUFcxmBAT8o1pwpejZXCQkaAg==" />
+    </item>
+    <item>
       <title>Version 1.6.0</title>
       <pubDate>Thu, 03 Sep 2026 00:59:55 -0500</pubDate>
       <sparkle:version>202609030059</sparkle:version>
