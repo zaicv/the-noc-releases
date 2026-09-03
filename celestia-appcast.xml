@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.4</title>
+      <pubDate>Wed, 02 Sep 2026 21:58:45 -0500</pubDate>
+      <sparkle:version>202609022158</sparkle:version>
+      <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Celestia now enables its own Finder right-click menu. The menu's extension was being registered by macOS but left switched off, so the actions never appeared.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.4/Celestia-1.4.4.dmg" length="4848307" type="application/octet-stream" sparkle:edSignature="2udRyVbPFSdj9yNRXHhwgBoI6fUyX5Von+EP/S1V9HKJbt1CJ87rVOdQCY8LwkG4kUyta6ALQZfo2oP5zOnNAw==" />
+    </item>
+    <item>
       <title>Version 1.4.3</title>
       <pubDate>Wed, 02 Sep 2026 21:47:56 -0500</pubDate>
       <sparkle:version>202609022146</sparkle:version>
