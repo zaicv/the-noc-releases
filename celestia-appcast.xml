@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.3</title>
+      <pubDate>Wed, 02 Sep 2026 21:47:56 -0500</pubDate>
+      <sparkle:version>202609022146</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The Finder right-click menu now actually appears. On macOS the menu is read from a separate extension type, which Celestia did not have — the actions were declared in a bundle Finder never asks. Lock, Unlock, Copy Vault Path, Open in Obsidian and Check the Vault for Changes are now in the menu.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.3/Celestia-1.4.3.dmg" length="4846108" type="application/octet-stream" sparkle:edSignature="UvETU4iKiAo9sMSLKD0lj0HABigIw7YwLP2gSLusej1s2et3WedOhIiB0LjgaJ1UHxfi7xJlkIu+umuwCbHwBw==" />
+    </item>
+    <item>
       <title>Version 1.4.2</title>
       <pubDate>Wed, 02 Sep 2026 13:04:04 -0500</pubDate>
       <sparkle:version>202609021303</sparkle:version>
