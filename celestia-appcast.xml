@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.6</title>
+      <pubDate>Wed, 02 Sep 2026 22:48:52 -0500</pubDate>
+      <sparkle:version>202609022248</sparkle:version>
+      <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes the right-click actions failing with a path error. Finder identifies files to the menu by its own internal id, which had to be translated back to a vault path.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.6/Celestia-1.4.6.dmg" length="4855677" type="application/octet-stream" sparkle:edSignature="HfjdqcLns1k5sxBYrNUORjx+oL8fFoTo4yQCRH7VPFwhHTFr1Ef0tsmBqNx1qEYdvY5N5hG3ygaVZ+WyE4xvAg==" />
+    </item>
+    <item>
       <title>Version 1.4.5</title>
       <pubDate>Wed, 02 Sep 2026 22:20:01 -0500</pubDate>
       <sparkle:version>202609022218</sparkle:version>
