@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.3</title>
+      <pubDate>Thu, 03 Sep 2026 15:54:30 -0500</pubDate>
+      <sparkle:version>202609031552</sparkle:version>
+      <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>New folders now appear on other Macs right away.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.6.3/Celestia-1.6.3.dmg" length="4886105" type="application/octet-stream" sparkle:edSignature="paSZwEg9mzJ3iqlPOOngMjUHLEvwx+5SIa9P6C0K+GQbKj4GshKrdTvu4m7AGRUuIZPfRdpp1ji+8up8VC+XDw==" />
+    </item>
+    <item>
       <title>Version 1.6.2</title>
       <pubDate>Thu, 03 Sep 2026 15:50:01 -0500</pubDate>
       <sparkle:version>202609031547</sparkle:version>
