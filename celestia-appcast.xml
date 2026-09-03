@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.0</title>
+      <pubDate>Thu, 03 Sep 2026 00:59:55 -0500</pubDate>
+      <sparkle:version>202609030059</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Files now keep a stable identity that survives renames and moves. This fixes the recurring 'items may be out of date' error and files that would not sync between Macs. Your Finder view rebuilds itself once after updating.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.6.0/Celestia-1.6.0.dmg" length="4884213" type="application/octet-stream" sparkle:edSignature="dEaqy8mErmLu4AIFqQ5oL1vRXkSQdqzualx5cV/WP14NNY93UmlO1QFQp+didyx8U4qFhGZRAfAvrzspRLx5BQ==" />
+    </item>
+    <item>
       <title>Version 1.5.0</title>
       <pubDate>Wed, 02 Sep 2026 23:27:34 -0500</pubDate>
       <sparkle:version>202609022326</sparkle:version>
