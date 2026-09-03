@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.7</title>
+      <pubDate>Wed, 02 Sep 2026 22:54:01 -0500</pubDate>
+      <sparkle:version>202609022253</sparkle:version>
+      <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Diagnostic build for the right-click actions: resolves files through the registered vault domain and records why a lookup fails.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.4.7/Celestia-1.4.7.dmg" length="4860735" type="application/octet-stream" sparkle:edSignature="5lmtpPJAWiPm3qqSmRYCoALMM+skyNGys58lX3csnWr8QWWgNobXaNlnQaG7c40jBzdIe+yg0hEdoIRUnaoiBA==" />
+    </item>
+    <item>
       <title>Version 1.4.6</title>
       <pubDate>Wed, 02 Sep 2026 22:48:52 -0500</pubDate>
       <sparkle:version>202609022248</sparkle:version>
