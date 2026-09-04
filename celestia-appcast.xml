@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.2</title>
+      <pubDate>Thu, 03 Sep 2026 22:29:08 -0500</pubDate>
+      <sparkle:version>202609032227</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Diagnostics now report whether the server actually answers, not just whether it is running — and tell apart a server that is absent from one that has wedged.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.7.2/Celestia-1.7.2.dmg" length="5081397" type="application/octet-stream" sparkle:edSignature="dR5IAVal2JyPg6LOESDCDh5Wvi/VWzj4p42CQNXcUNEoZ8zNSm6w/7fHyWQ+aD2wU9gxkl8uYHIug+Zm36lmBw==" />
+    </item>
+    <item>
       <title>Version 1.7.1</title>
       <pubDate>Thu, 03 Sep 2026 22:18:07 -0500</pubDate>
       <sparkle:version>202609032217</sparkle:version>
