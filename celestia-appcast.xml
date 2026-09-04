@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Fri, 04 Sep 2026 11:52:14 -0500</pubDate>
+      <sparkle:version>202609041150</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Verbose tracing is on by default, so a transcript already exists when something breaks — no more reproducing a problem twice. The trace now rotates through bounded history files on disk instead of destroying old data when it fills up. The Developer Log window gains Export Full Log, which writes one file with the full ground-state diagnostics, the complete trace history, the full session log, and the home server's own log — built to hand straight to an AI agent.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.0/Celestia-1.8.0.dmg" length="5154389" type="application/octet-stream" sparkle:edSignature="pGWgYhj98Y0p+OGEHp/en33xgZ0ADoElLwIhIc06G8Epe9XU98lCOWsUxmlZNjjM5e5WzHMUv2OxDybvUrmhCA==" />
+    </item>
+    <item>
       <title>Version 1.7.9</title>
       <pubDate>Thu, 03 Sep 2026 23:37:27 -0500</pubDate>
       <sparkle:version>202609032336</sparkle:version>
