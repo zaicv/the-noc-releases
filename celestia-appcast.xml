@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.0</title>
+      <pubDate>Thu, 03 Sep 2026 22:02:40 -0500</pubDate>
+      <sparkle:version>202609032201</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>New Backup tab in Settings: see exactly what has changed, what is not yet backed up, the full history, and write the commit message with Apple's on-device model. The Server window now reports each part of the server separately — the background service, the process, the listener, tool calls and both Finder extensions — and can clear leftover registrations from old builds. The developer log now includes extension registrations, processes and mount state.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.7.0/Celestia-1.7.0.dmg" length="5056208" type="application/octet-stream" sparkle:edSignature="JV9wz6Y8BwOUd5bCQmSHNxqjK5kRXckXRORGdvoCHPi0n+71U3IFl+O36V7D38WDSL5t3OUffJlCRHdMhjFQDg==" />
+    </item>
+    <item>
       <title>Version 1.6.4</title>
       <pubDate>Thu, 03 Sep 2026 21:39:57 -0500</pubDate>
       <sparkle:version>202609032139</sparkle:version>
