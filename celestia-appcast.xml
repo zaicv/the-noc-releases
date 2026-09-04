@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.4</title>
+      <pubDate>Thu, 03 Sep 2026 22:56:57 -0500</pubDate>
+      <sparkle:version>202609032255</sparkle:version>
+      <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes the diagnostics call locking up the server when an AI agent asked for it.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.7.4/Celestia-1.7.4.dmg" length="5084930" type="application/octet-stream" sparkle:edSignature="t+XQbx0DhV4WbLPYtzlM2mldyZ4ZB65Suk3ScJWMzUCHyh144YvSvBVbcnpQAgM/daZKrsTMU/lOQXIcrxfaAA==" />
+    </item>
+    <item>
       <title>Version 1.7.3</title>
       <pubDate>Thu, 03 Sep 2026 22:38:03 -0500</pubDate>
       <sparkle:version>202609032233</sparkle:version>
