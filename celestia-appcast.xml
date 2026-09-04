@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.5</title>
+      <pubDate>Thu, 03 Sep 2026 23:06:25 -0500</pubDate>
+      <sparkle:version>202609032304</sparkle:version>
+      <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The server no longer ends up unresponsive after an update.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.7.5/Celestia-1.7.5.dmg" length="5087634" type="application/octet-stream" sparkle:edSignature="mHdRHzjOM0v5VFsgex55gScENa+rwcEZls295dysO15U1uc8DDu/tzkqcOfafLo/rWh4DbTEUaWGO4lzxnpVAg==" />
+    </item>
+    <item>
       <title>Version 1.7.4</title>
       <pubDate>Thu, 03 Sep 2026 22:56:57 -0500</pubDate>
       <sparkle:version>202609032255</sparkle:version>
