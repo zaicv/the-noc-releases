@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.2</title>
+      <pubDate>Sat, 05 Sep 2026 00:08:13 -0500</pubDate>
+      <sparkle:version>202609050006</sparkle:version>
+      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Renaming a folder now reaches every other Mac. A folder renamed on one Mac kept its old name elsewhere, and opening it there failed with 'items may be out of date'.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.2/Celestia-1.8.2.dmg" length="5177004" type="application/octet-stream" sparkle:edSignature="ZIrJkNJOjh0YSzoStCTUbpKvMiLayPvPcsZk42PlVRVgD8dUt3ohuagnTU4crQBZTgsIl5zBic2nZFN75WkACA==" />
+    </item>
+    <item>
       <title>Version 1.8.1</title>
       <pubDate>Fri, 04 Sep 2026 21:20:29 -0500</pubDate>
       <sparkle:version>202609042119</sparkle:version>
