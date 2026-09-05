@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.1</title>
+      <pubDate>Fri, 04 Sep 2026 21:20:29 -0500</pubDate>
+      <sparkle:version>202609042119</sparkle:version>
+      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Renames made on the home Mac now reach every client. Fixes a crash in the MCP server when its client disconnects, makes noc sync work from a client, and stops sync reporting success while commits sit unpushed.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.1/Celestia-1.8.1.dmg" length="5176745" type="application/octet-stream" sparkle:edSignature="T14FU22wniAEQwK1xNY2PuKYBjqYPwrTcWE1/DJolZK9AlVUvu0BfPWfX9y1ujW6XykYuewtO+syvZN2EUBVBA==" />
+    </item>
+    <item>
       <title>Version 1.8.0</title>
       <pubDate>Fri, 04 Sep 2026 11:52:14 -0500</pubDate>
       <sparkle:version>202609041150</sparkle:version>
