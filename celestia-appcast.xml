@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.3</title>
+      <pubDate>Sun, 06 Sep 2026 00:54:35 -0500</pubDate>
+      <sparkle:version>202609060053</sparkle:version>
+      <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Delphi becomes a standing librarian: auto-starting terminal session, an editable filing pop-up instead of instant auto-filing, git health watched on a timer, and wakes automatically when something new lands in the vault.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.3/Celestia-1.8.3.dmg" length="5409554" type="application/octet-stream" sparkle:edSignature="7HW8v3TuRr6zlHgLYeNwZOkeA+ML7PsUArAivwjI5Vps/JnclWaaaQiRylQT6cskJV2CVB15TV3N4XJ5xWiOCQ==" />
+    </item>
+    <item>
       <title>Version 1.8.2</title>
       <pubDate>Sat, 05 Sep 2026 00:08:13 -0500</pubDate>
       <sparkle:version>202609050006</sparkle:version>
