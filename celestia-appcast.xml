@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.4</title>
+      <pubDate>Sun, 06 Sep 2026 01:18:28 -0500</pubDate>
+      <sparkle:version>202609060117</sparkle:version>
+      <sparkle:shortVersionString>1.8.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Manual Stop/Start for Delphi's standing session (closes/reopens the tmux session and its terminal window), and a fix for nudges stacking up unsubmitted after a restart.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.4/Celestia-1.8.4.dmg" length="5422686" type="application/octet-stream" sparkle:edSignature="xuAG98YEfMwm4KZAzyR0R7M2KxQRxJjM4cqVzZdACwacqGTW9RdEnnCs+AY+71YqFQudykxMts3DN0e1YBUYDg==" />
+    </item>
+    <item>
       <title>Version 1.8.3</title>
       <pubDate>Sun, 06 Sep 2026 00:54:35 -0500</pubDate>
       <sparkle:version>202609060053</sparkle:version>
