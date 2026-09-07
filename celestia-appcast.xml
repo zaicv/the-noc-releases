@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.9</title>
+      <pubDate>Mon, 07 Sep 2026 18:33:55 -0500</pubDate>
+      <sparkle:version>202609071831</sparkle:version>
+      <sparkle:shortVersionString>1.8.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Unify prompts and hand-typed input into the same tmux session the Terminal tab watches</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.9/Celestia-1.8.9.dmg" length="5506019" type="application/octet-stream" sparkle:edSignature="i2lCJ9G2o6GC5N9sj3fHFkozDnQ6HyOez7200i02BnlOp8KeXkzzLCQg8pLPyPUdZxT54sAzbwqeho7/980TAQ==" />
+    </item>
+    <item>
       <title>Version 1.8.8</title>
       <pubDate>Mon, 07 Sep 2026 17:54:33 -0500</pubDate>
       <sparkle:version>202609071752</sparkle:version>
