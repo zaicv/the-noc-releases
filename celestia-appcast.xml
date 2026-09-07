@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.8</title>
+      <pubDate>Mon, 07 Sep 2026 17:54:33 -0500</pubDate>
+      <sparkle:version>202609071752</sparkle:version>
+      <sparkle:shortVersionString>1.8.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Every live agent terminal, visible in one gallery. Auto-reconnect when a viewer window drops but the session is still alive on the server.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.8/Celestia-1.8.8.dmg" length="5505408" type="application/octet-stream" sparkle:edSignature="2kPYn8BDGDRLT+GrovmRfIBPNde738ZLUDQ0jpLL8U+4q3NJ0UqTt9zOrrBelpHTSS8nGTvZq69EUeUWjOeUAA==" />
+    </item>
+    <item>
       <title>Version 1.8.7</title>
       <pubDate>Mon, 07 Sep 2026 17:30:56 -0500</pubDate>
       <sparkle:version>202609071728</sparkle:version>
