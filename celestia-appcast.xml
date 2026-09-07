@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.6</title>
+      <pubDate>Mon, 07 Sep 2026 16:02:13 -0500</pubDate>
+      <sparkle:version>202609071601</sparkle:version>
+      <sparkle:shortVersionString>1.8.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga's pipeline reachable over MCP: saga_status and saga_events_recent</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.6/Celestia-1.8.6.dmg" length="5472636" type="application/octet-stream" sparkle:edSignature="XDA6ot5RRfPDzFJ6AAyElXy6LnKnVxq+xLFBSa9hro4bm+KKm9iRaYdlLR6r6XZ9fBSy4ryB3tG1g5hlPTrnBg==" />
+    </item>
+    <item>
       <title>Version 1.8.5</title>
       <pubDate>Sun, 06 Sep 2026 22:40:35 -0500</pubDate>
       <sparkle:version>202609062239</sparkle:version>
