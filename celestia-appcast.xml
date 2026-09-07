@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.5</title>
+      <pubDate>Sun, 06 Sep 2026 22:40:35 -0500</pubDate>
+      <sparkle:version>202609062239</sparkle:version>
+      <sparkle:shortVersionString>1.8.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Phase F and G — SQL store (sql_tables/sql_query/sql_exec) and approval-gate tools (list_proposals/read_proposal/resolve_proposal) reachable over MCP</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.5/Celestia-1.8.5.dmg" length="5451116" type="application/octet-stream" sparkle:edSignature="V3xUAKLYSiV3ZmjsGb7mOpSJxVR3o0rHDn+BjOGr61QORpMxv0iDAA7ohe0j9aeQWF6e4/dwaJYoNg7ca9RWBQ==" />
+    </item>
+    <item>
       <title>Version 1.8.4</title>
       <pubDate>Sun, 06 Sep 2026 01:18:28 -0500</pubDate>
       <sparkle:version>202609060117</sparkle:version>
