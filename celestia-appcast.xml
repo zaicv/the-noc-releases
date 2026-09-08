@@ -5,6 +5,14 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.12</title>
+      <pubDate>Mon, 07 Sep 2026 20:48:04 -0500</pubDate>
+      <sparkle:version>202609072042</sparkle:version>
+      <sparkle:shortVersionString>1.8.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.8.12/Celestia-1.8.12.dmg" length="5513529" type="application/octet-stream" sparkle:edSignature="AUFA6B6RNBav8q6+6meZvSXpQVLQr8GSpqsF75Am3oDWlKIfD/z2ZDVbvlcxwHBF7Aediav/+UGdTM2XxQ3dDA==" />
+    </item>
+    <item>
       <title>Version 1.8.11</title>
       <pubDate>Mon, 07 Sep 2026 20:19:34 -0500</pubDate>
       <sparkle:version>202609072014</sparkle:version>
