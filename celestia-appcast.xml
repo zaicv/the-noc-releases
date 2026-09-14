@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.9.0</title>
+      <pubDate>Mon, 14 Sep 2026 14:11:23 -0500</pubDate>
+      <sparkle:version>202609141409</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The daemon now discovers the data stack live (data_stack), answers read-only warehouse queries (data_stack_query), and runs the stack's Makefile commands in the background from any client (data_stack_run, data_stack_job). Health findings name the command that fixes them. Also fixes the Release build, which had been missing EventBus since Sep 12.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.9.0/Celestia-1.9.0.dmg" length="6109202" type="application/octet-stream" sparkle:edSignature="u3arDO+u2xnYl8MgoRhVtbEUpdjw2B4FNm7RI/LCHS/R0gHswVwwK7c59YdRg7GEW9MRkb2uw36k88TUFfrIDw==" />
+    </item>
+    <item>
       <title>Version 1.8.13</title>
       <pubDate>Mon, 07 Sep 2026 21:02:04 -0500</pubDate>
       <sparkle:version>202609072058</sparkle:version>
