@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.9.4</title>
+      <pubDate>Fri, 18 Sep 2026 15:03:29 -0500</pubDate>
+      <sparkle:version>202609181457</sparkle:version>
+      <sparkle:shortVersionString>1.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>god_state no longer reports a home server as incomplete over items it simply didn't check, or over an optional companion app. Tesseract's setup screen now shows an accurate provisioning status.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.9.4/Celestia-1.9.4.dmg" length="6574579" type="application/octet-stream" sparkle:edSignature="GAOXoiHGwvEs8bwW2yph/Kk39ID2bGxRkZADvolOPGAfCq8rd7o5zYGjsC0fn/QMhmk9eGGnbr+dhS6L0c35BQ==" />
+    </item>
+    <item>
       <title>Version 1.9.3</title>
       <pubDate>Fri, 18 Sep 2026 10:58:56 -0500</pubDate>
       <sparkle:version>202609181057</sparkle:version>
