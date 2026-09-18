@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.9.1</title>
+      <pubDate>Fri, 18 Sep 2026 10:51:06 -0500</pubDate>
+      <sparkle:version>202609181043</sparkle:version>
+      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Setup, rebuilt: a new wizard, and a Tools tab that installs every dependency, tool, MCP registration and config repo this Mac needs from one manifest. Agent sessions running outdated tools are now flagged, and remote-MCP credentials are checked where the daemon actually reads them.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.9.1/Celestia-1.9.1.dmg" length="6574443" type="application/octet-stream" sparkle:edSignature="8dfpsJyb5GOdos4YxnJt+XxLAHrmPm171TCdaW524Qx0bbDqrduaSneeegmQtoS4JkbZD18Gtp4xyZ4Aaaz9Cg==" />
+    </item>
+    <item>
       <title>Version 1.9.0</title>
       <pubDate>Mon, 14 Sep 2026 14:11:23 -0500</pubDate>
       <sparkle:version>202609141409</sparkle:version>
