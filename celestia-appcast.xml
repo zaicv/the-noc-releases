@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.0</title>
+      <pubDate>Sat, 19 Sep 2026 00:44:33 -0500</pubDate>
+      <sparkle:version>202609190043</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Agents can be talked to in threads: send_to_agent / list_threads / read_thread / cancel_thread over MCP, streamed replies for Tesseract's new Interface tab.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.10.0/Celestia-1.10.0.dmg" length="6668827" type="application/octet-stream" sparkle:edSignature="9dpYuNQyv0wcbMKsI3kwZCbcm8gdG69Av5Hww4yhJIK6ZK/Ai2ZVdUDNjcpeD/sIo9tZ/xbPEyBJG9/xbhENDA==" />
+    </item>
+    <item>
       <title>Version 1.9.5</title>
       <pubDate>Fri, 18 Sep 2026 15:41:24 -0500</pubDate>
       <sparkle:version>202609181533</sparkle:version>
