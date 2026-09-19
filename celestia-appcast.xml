@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.11.1</title>
+      <pubDate>Sat, 19 Sep 2026 13:08:51 -0500</pubDate>
+      <sparkle:version>202609191300</sparkle:version>
+      <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Stops registering noc-ytdl as an MCP server (it's a command-line tool) and removes the old registration, ending the noc-ytdl CONNECTION_CLOSED error in every Claude session.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.11.1/Celestia-1.11.1.dmg" length="6702294" type="application/octet-stream" sparkle:edSignature="eSASHaIkGAV7NrrK8GJM4K7h63XTgJK8VIKVaM0szHzm5i1Pq1iVTvkanGuIMm/2URKB0NxY4awX0eXkniSCAQ==" />
+    </item>
+    <item>
       <title>Version 1.11.0</title>
       <pubDate>Sat, 19 Sep 2026 12:02:14 -0500</pubDate>
       <sparkle:version>202609191201</sparkle:version>
