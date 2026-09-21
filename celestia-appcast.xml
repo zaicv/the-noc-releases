@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.14.0</title>
+      <pubDate>Mon, 21 Sep 2026 14:04:33 -0500</pubDate>
+      <sparkle:version>202609211349</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>FabSight lens authoring: agents can make any tool transparent — test, prove, save and attach a lens from the tool's own output (per-item progress, done/left of total), with coverage measured on every run, raw output kept, drift detection, and the fab-lens skill seeded into the vault.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.14.0/Celestia-1.14.0.dmg" length="7070165" type="application/octet-stream" sparkle:edSignature="JK+fOhWfUDPlpl2OTYR69b+b0U26hvyHaJjkkdxwdbVyvM7auuEvZ3lgJZwVU0/KRT7C3QxB+HXPXMNZL/vGDQ==" />
+    </item>
+    <item>
       <title>Version 1.13.0</title>
       <pubDate>Sun, 20 Sep 2026 21:09:38 -0500</pubDate>
       <sparkle:version>202609202059</sparkle:version>
