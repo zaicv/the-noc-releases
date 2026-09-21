@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.13.0</title>
+      <pubDate>Sun, 20 Sep 2026 21:09:38 -0500</pubDate>
+      <sparkle:version>202609202059</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>FabSight — every fabricator run seen stage by stage, reported or derived from the agent's own tool calls — plus live headless-thread telemetry (list, watch, shut down) and process detail (cpu, memory, working directory). The roster orb now says what a stage is doing.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.13.0/Celestia-1.13.0.dmg" length="6842628" type="application/octet-stream" sparkle:edSignature="K8aWY8yMshM/eQ8kTRhUzn6pKh/dpCPgCaEfMQtawGTnXdxyqIG+34K0jQ9vN+VRyzk1nEZAbI+eMMD8yhoeCw==" />
+    </item>
+    <item>
       <title>Version 1.12.0</title>
       <pubDate>Sat, 19 Sep 2026 20:31:24 -0500</pubDate>
       <sparkle:version>202609192030</sparkle:version>
