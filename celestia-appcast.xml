@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.15.0</title>
+      <pubDate>Sat, 26 Sep 2026 22:00:29 -0500</pubDate>
+      <sparkle:version>202609262147</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Stack health: god_state facet:health is the whole stack as a tree of lights (LaunchAgents, server freshness, Finder extensions, release channels verified against their DMGs, Supabase, every client with per-device credential refusals) plus stack_restart. god_state no longer blocks every other call while it collects. Stream routes say why a credential was refused. Per-thread model, effort and billing mode. The ship script refuses a re-used version and verifies the upload before touching the appcast.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.15.0/Celestia-1.15.0.dmg" length="7167432" type="application/octet-stream" sparkle:edSignature="3yiG/iNXohsgs6L8zxVursIYzBCXQcLqrZs0MMg6htrvv0zQCj5RjAKY/RdWZ6JyX4qMKxKPVwuFHpnFIoBqCg==" />
+    </item>
+    <item>
       <title>Version 1.14.0</title>
       <pubDate>Mon, 21 Sep 2026 14:04:33 -0500</pubDate>
       <sparkle:version>202609211349</sparkle:version>
