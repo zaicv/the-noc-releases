@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.16.0</title>
+      <pubDate>Tue, 29 Sep 2026 12:15:24 -0500</pubDate>
+      <sparkle:version>202609291214</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Connector host for Friday's engines: connectors_list, connector_call and connector_admin run the vault's MCP connectors (Apollo tasks, Meridian calendar, Hermes read-only Gmail) through their own per-tool permission gate, and POST /mcp/&lt;id&gt; proxies any connector to paired clients. The roster understands orchestrators and deterministic engines (parent / engine / children); engines get no chat actions.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.16.0/Celestia-1.16.0.dmg" length="7194596" type="application/octet-stream" sparkle:edSignature="2qGapZ5c2EX2eaVKMRUFn42uQbGGMSTX6MrCrefQJZILO3g9sLGftDKVG+enjo3XJDXfCBmOixGJQ9JPasi+Bw==" />
+    </item>
+    <item>
       <title>Version 1.15.1</title>
       <pubDate>Tue, 29 Sep 2026 00:40:44 -0500</pubDate>
       <sparkle:version>202609290039</sparkle:version>
