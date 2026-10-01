@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.17.0</title>
+      <pubDate>Thu, 01 Oct 2026 11:01:30 -0500</pubDate>
+      <sparkle:version>202610011050</sparkle:version>
+      <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice: agents talk back — spoken threads, per-agent voices, voice tools, voice health on the Stack page</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.17.0/Celestia-1.17.0.dmg" length="7313450" type="application/octet-stream" sparkle:edSignature="rRjkH5+siTQudSmty0zNEBCTqWVX2kICCBJZGVd6wRSRYu8m8R6NozwbC/KnPnvRgkpYQQhFCSFBafstDRZxAA==" />
+    </item>
+    <item>
       <title>Version 1.16.0</title>
       <pubDate>Tue, 29 Sep 2026 12:15:24 -0500</pubDate>
       <sparkle:version>202609291214</sparkle:version>
