@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.25.0</title>
+      <pubDate>Fri, 02 Oct 2026 15:20:06 -0500</pubDate>
+      <sparkle:version>202610021448</sparkle:version>
+      <sparkle:shortVersionString>1.25.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hearts: every agent runs on its own power source — Claude Code or Arc-Code on a named brain chain — set per agent and inherited by subagents. Fabricators with steps run at the touch of a button: scripts directly, model steps on their subagent's heart, gates answered by you from a paired device. Every turn's heart, model and cost lands in the warehouse.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.25.0/Celestia-1.25.0.dmg" length="7550895" type="application/octet-stream" sparkle:edSignature="BgKEftD88bp/Y+iPNcqos0ywB6OzhVGc0HTIbpzlyuLDnFOXj4CHWlLoGMBPF8ohzjArOlhcVvNsSB9MoPnBCQ==" />
+    </item>
+    <item>
       <title>Version 1.24.0</title>
       <pubDate>Fri, 02 Oct 2026 12:15:29 -0500</pubDate>
       <sparkle:version>202610021214</sparkle:version>
