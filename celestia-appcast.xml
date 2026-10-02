@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.22.0</title>
+      <pubDate>Thu, 01 Oct 2026 22:19:26 -0500</pubDate>
+      <sparkle:version>202610012217</sparkle:version>
+      <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The weekly backup works again: it now runs through Celestia's noc, which macOS lets read the vault.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.22.0/Celestia-1.22.0.dmg" length="7367621" type="application/octet-stream" sparkle:edSignature="tDjLRmUnoJx/EQ+SCKHBCktiJw/vXo/ptCHNJI1Hy8fJa8mDYHGiN+XZw+GP425rCc+va1crwKn6OazcSKQ1AQ==" />
+    </item>
+    <item>
       <title>Version 1.21.0</title>
       <pubDate>Thu, 01 Oct 2026 21:40:08 -0500</pubDate>
       <sparkle:version>202610012118</sparkle:version>
