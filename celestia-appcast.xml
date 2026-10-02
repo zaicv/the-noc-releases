@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.23.0</title>
+      <pubDate>Fri, 02 Oct 2026 07:10:32 -0500</pubDate>
+      <sparkle:version>202610020650</sparkle:version>
+      <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Alaura joins the Council: last night's sleep, yesterday's water against her target or your own goal, and (in Detailed) the sleep debt and today's planned meals — from her new engines, by rule. connector_call names every connector.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.23.0/Celestia-1.23.0.dmg" length="7375871" type="application/octet-stream" sparkle:edSignature="hhf6z0pPG2RtgSWVvcZBZHxDDZ6qo0ipXjQ5giagjcV6xeXhK3Nj7GzxDVcJuEKu5E1JRVdGsQJZLAVxYO8kBg==" />
+    </item>
+    <item>
       <title>Version 1.22.0</title>
       <pubDate>Thu, 01 Oct 2026 22:19:26 -0500</pubDate>
       <sparkle:version>202610012217</sparkle:version>
