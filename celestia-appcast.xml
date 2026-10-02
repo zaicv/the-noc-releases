@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.24.0</title>
+      <pubDate>Fri, 02 Oct 2026 12:15:29 -0500</pubDate>
+      <sparkle:version>202610021214</sparkle:version>
+      <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Phoebe Mind: every talk with Phoebe kept and readable, with turns her rules handled carried into her next answer. FabSight closes runs that have gone silent for six hours.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.24.0/Celestia-1.24.0.dmg" length="7395873" type="application/octet-stream" sparkle:edSignature="L5mRhiYyNSrrx+MEgLC2cV2wrbVsgQpWQEQdlHsSozxr7B/Dls4QhQRcxVx2bx+mNtV9o3dkUhyJ5akveT5ZDA==" />
+    </item>
+    <item>
       <title>Version 1.23.0</title>
       <pubDate>Fri, 02 Oct 2026 07:10:32 -0500</pubDate>
       <sparkle:version>202610020650</sparkle:version>
