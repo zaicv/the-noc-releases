@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.26.0</title>
+      <pubDate>Sun, 04 Oct 2026 00:19:20 -0500</pubDate>
+      <sparkle:version>202610032351</sparkle:version>
+      <sparkle:shortVersionString>1.26.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Remote MCP connectors: Notion, PubMed, Linear and any registry server connect through the Supabase OAuth broker and reach the agents they're attached to.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.26.0/Celestia-1.26.0.dmg" length="7554592" type="application/octet-stream" sparkle:edSignature="q2oNsUM5NdaqLihFuaOinwhnoImjRh4bpHr6qPdQbwrw3UFzen6EEtNCq22SXuedoO29Ga30Trn3Dp+uznjbCA==" />
+    </item>
+    <item>
       <title>Version 1.25.0</title>
       <pubDate>Fri, 02 Oct 2026 15:20:06 -0500</pubDate>
       <sparkle:version>202610021448</sparkle:version>
