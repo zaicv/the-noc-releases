@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.28.0</title>
+      <pubDate>Sun, 04 Oct 2026 19:55:48 -0500</pubDate>
+      <sparkle:version>202610041918</sparkle:version>
+      <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Aether: project folders are granted outright so headless chats can edit (locked files still denied), chats' files download, CLAUDE.md editing, hand-offs link back to the chat.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.28.0/Celestia-1.28.0.dmg" length="7651660" type="application/octet-stream" sparkle:edSignature="JYRbBj05Jutv6TZm7wcvvOm7OBKOz7hCFUB4xGG+Q2mYqgqZ8qAdMsdUHT1E9IQoP/JHoCyKtGzlUtUs51U2AQ==" />
+    </item>
+    <item>
       <title>Version 1.27.0</title>
       <pubDate>Sun, 04 Oct 2026 19:09:37 -0500</pubDate>
       <sparkle:version>202610041837</sparkle:version>
