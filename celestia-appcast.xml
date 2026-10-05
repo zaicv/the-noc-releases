@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.27.0</title>
+      <pubDate>Sun, 04 Oct 2026 19:09:37 -0500</pubDate>
+      <sparkle:version>202610041837</sparkle:version>
+      <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Aether's substrate: projects in any folder, harness-enforced locks, per-turn checkpoints with revert, and plain-Claude chats that delegate to agents.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.27.0/Celestia-1.27.0.dmg" length="7651141" type="application/octet-stream" sparkle:edSignature="3Rbx5goEOmma/zqLXLyTz8chT7hFml2RZy8peQ0cy8oeouw4MR8rQVTIylR+dApsVPuq5Mq0K4Sg+KHxGoQcDA==" />
+    </item>
+    <item>
       <title>Version 1.26.0</title>
       <pubDate>Sun, 04 Oct 2026 00:19:20 -0500</pubDate>
       <sparkle:version>202610032351</sparkle:version>
