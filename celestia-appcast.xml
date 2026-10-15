@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.30.0</title>
+      <pubDate>Wed, 14 Oct 2026 22:10:44 -0500</pubDate>
+      <sparkle:version>202610142134</sparkle:version>
+      <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hearts never stop: when Claude hits its usage limit (or its 5-hour window is 95% used), threads carry on on the heart's standby with a handoff brief, then come back after the reset.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.30.0/Celestia-1.30.0.dmg" length="7705817" type="application/octet-stream" sparkle:edSignature="Bv3/W74IIvmPhFq4iCehHJ6CFBpMht+2bJAManly2e6QAVxbFJc4m1sXVfQ7zRLLLfyqsLEdu+ZvWoI4yt7rCw==" />
+    </item>
+    <item>
       <title>Version 1.29.0</title>
       <pubDate>Mon, 05 Oct 2026 00:33:56 -0500</pubDate>
       <sparkle:version>202610042358</sparkle:version>
