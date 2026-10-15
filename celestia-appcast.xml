@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.31.0</title>
+      <pubDate>Wed, 14 Oct 2026 23:14:08 -0500</pubDate>
+      <sparkle:version>202610142237</sparkle:version>
+      <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>One Brain: memory recall and approvals go through Arc's Hindsight, the one memory every heart shares. No Ollama needed.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.31.0/Celestia-1.31.0.dmg" length="7709940" type="application/octet-stream" sparkle:edSignature="x3xDcTnxJxp4g4yvB9Opd9A1d+OMh+TQkurmlJ/Yd66hqxrE7U3FvhX//FVfXhn5LZxW3hffsNiiZsUZcQsJBg==" />
+    </item>
+    <item>
       <title>Version 1.30.0</title>
       <pubDate>Wed, 14 Oct 2026 22:10:44 -0500</pubDate>
       <sparkle:version>202610142134</sparkle:version>
