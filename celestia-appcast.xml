@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.33.0</title>
+      <pubDate>Fri, 16 Oct 2026 20:23:27 -0500</pubDate>
+      <sparkle:version>202610162022</sparkle:version>
+      <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Rebuild so the shipped app's signature verifies, and a daemon restart that reloads the vault roster. No behaviour changes.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.33.0/Celestia-1.33.0.dmg" length="7712157" type="application/octet-stream" sparkle:edSignature="dI36RXYciLQhg7SUKqWA36vWblNiUH9B4iu8QfMq24pwjOeaxQdAyjlTsUzzEgVXTyCPlNoF5Afn0hRrsshZCg==" />
+    </item>
+    <item>
       <title>Version 1.32.0</title>
       <pubDate>Thu, 15 Oct 2026 00:13:48 -0500</pubDate>
       <sparkle:version>202610142337</sparkle:version>
