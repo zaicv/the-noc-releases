@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.36.0</title>
+      <pubDate>Sat, 17 Oct 2026 17:18:51 -0500</pubDate>
+      <sparkle:version>202610171637</sparkle:version>
+      <sparkle:shortVersionString>1.36.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Probe: the polling and driving calls no longer queue other clients' calls behind them (they took 25-33 s on a client), and a session's own noc mcp reaches the daemon's probe tools.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.36.0/Celestia-1.36.0.dmg" length="7738943" type="application/octet-stream" sparkle:edSignature="oL+h44idwqbnXKRYYB42jtbe2CNF4i2J+k7HU8x7hdve3mM3n8HEvj59xN6Muv6uPIqagS+M7QbVb2k/Spx3Bg==" />
+    </item>
+    <item>
       <title>Version 1.35.0</title>
       <pubDate>Sat, 17 Oct 2026 14:58:17 -0500</pubDate>
       <sparkle:version>202610171418</sparkle:version>
