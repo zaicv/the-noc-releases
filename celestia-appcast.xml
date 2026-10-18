@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.41.0</title>
+      <pubDate>Sun, 18 Oct 2026 15:28:51 -0500</pubDate>
+      <sparkle:version>202610181444</sparkle:version>
+      <sparkle:shortVersionString>1.41.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice: turns reach Phoebe instantly — connections are accepted off the main thread.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.41.0/Celestia-1.41.0.dmg" length="7812975" type="application/octet-stream" sparkle:edSignature="3qJmxKTzsQtsT9Yx70h07Hd7k353zgWqGJ7XddoFUeGfKufZfFQn9aJovgqDrprzts65PIF/KCUsBn0lrO75Cg==" />
+    </item>
+    <item>
       <title>Version 1.40.0</title>
       <pubDate>Sun, 18 Oct 2026 02:50:17 -0500</pubDate>
       <sparkle:version>202610180209</sparkle:version>
