@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.38.0</title>
+      <pubDate>Sat, 17 Oct 2026 21:49:37 -0500</pubDate>
+      <sparkle:version>202610172109</sparkle:version>
+      <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice conversations V1 Fixes: Fixes in addition to last ship which was - Phoebe talks while agents work — streamed speech, delegation, barge-in, spoken results.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.38.0/Celestia-1.38.0.dmg" length="7816282" type="application/octet-stream" sparkle:edSignature="hcvSrIaI9AT+I6ojD8Busm6QXETlwYQWswpXFN0ABJ5rcPK4yV0dX0PBfrOwt9PDKYxHihdv+tvVohhEQ6XGDw==" />
+    </item>
+    <item>
       <title>Version 1.37.0</title>
       <pubDate>Sat, 17 Oct 2026 20:28:07 -0500</pubDate>
       <sparkle:version>202610171948</sparkle:version>
