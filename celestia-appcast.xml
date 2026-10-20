@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.42.0</title>
+      <pubDate>Tue, 20 Oct 2026 13:26:02 -0500</pubDate>
+      <sparkle:version>202610201248</sparkle:version>
+      <sparkle:shortVersionString>1.42.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Phoebe can file one clear request through the engines herself (tasks, calendar, food, water, sleep, money), logged as her under the owning agent. Engine calls from any thread or terminal agent are now logged under the agent that made them. Her voice glance can file requests. Phoebe's own session runs under a write scope and sandbox, and noc phoebe now actually starts her session.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.42.0/Celestia-1.42.0.dmg" length="7814580" type="application/octet-stream" sparkle:edSignature="XFJuXgz1I86x6/0XW+8h1IX7CX2wtQM8sG3buOIejlzQ7HFZ/oWLiELQCo9vuroVTk2wW9OnhNPlSxBBm0f5Bw==" />
+    </item>
+    <item>
       <title>Version 1.41.0</title>
       <pubDate>Sun, 18 Oct 2026 15:28:51 -0500</pubDate>
       <sparkle:version>202610181444</sparkle:version>
