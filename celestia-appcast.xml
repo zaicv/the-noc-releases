@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.44.0</title>
+      <pubDate>Sat, 24 Oct 2026 15:33:13 -0500</pubDate>
+      <sparkle:version>202610241440</sparkle:version>
+      <sparkle:shortVersionString>1.44.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Listing every agent's threads shows each one once (Cerebro's sidebar).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.44.0/Celestia-1.44.0.dmg" length="7844331" type="application/octet-stream" sparkle:edSignature="+r35mzzyPkO0QtkDTtlTMx964QWDiy2SOxDnvrJt7g83hN/G96e5eVXjIpxuxq81Zyw24dpX00WeXMgNtjzNCw==" />
+    </item>
+    <item>
       <title>Version 1.43.0</title>
       <pubDate>Sat, 24 Oct 2026 14:18:46 -0500</pubDate>
       <sparkle:version>202610241330</sparkle:version>
