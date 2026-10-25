@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.46.0</title>
+      <pubDate>Sat, 24 Oct 2026 22:22:01 -0500</pubDate>
+      <sparkle:version>202610242126</sparkle:version>
+      <sparkle:shortVersionString>1.46.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>An artifact an agent records with record_delivery appears in the open thread right away.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.46.0/Celestia-1.46.0.dmg" length="7874240" type="application/octet-stream" sparkle:edSignature="Ld0vpQ1HOZhVqTD+SQalKlLbzZWV2IAd3mweuDXibxzmIUg49bYF3GPX/HjB4h5bHstf/VwtfRQk/tga5aXiCg==" />
+    </item>
+    <item>
       <title>Version 1.45.0</title>
       <pubDate>Sat, 24 Oct 2026 19:12:15 -0500</pubDate>
       <sparkle:version>202610241812</sparkle:version>
