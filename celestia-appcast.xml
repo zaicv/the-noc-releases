@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.45.0</title>
+      <pubDate>Sat, 24 Oct 2026 19:12:15 -0500</pubDate>
+      <sparkle:version>202610241812</sparkle:version>
+      <sparkle:shortVersionString>1.45.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Cerebro: questions and plans on every thread (answer cards, plan approval that can leave plan mode), plan files no longer a broken download, subagent canon and skills tools.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.45.0/Celestia-1.45.0.dmg" length="7873729" type="application/octet-stream" sparkle:edSignature="Sl+4allOUqQEkAOO/UwW+jj26F4nZoJELhlqBXSVQz4M9wlyp4MDjKSMCPWBn4GYy6XIDZNf9lXYuwFYJoQeCg==" />
+    </item>
+    <item>
       <title>Version 1.44.0</title>
       <pubDate>Sat, 24 Oct 2026 15:33:13 -0500</pubDate>
       <sparkle:version>202610241440</sparkle:version>
