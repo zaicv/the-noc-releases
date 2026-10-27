@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.50.0</title>
+      <pubDate>Tue, 27 Oct 2026 13:31:07 -0500</pubDate>
+      <sparkle:version>202610271237</sparkle:version>
+      <sparkle:shortVersionString>1.50.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>FabSight follows every Saga job's logs and keeps each disc's progress in its own run</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.50.0/Celestia-1.50.0.dmg" length="7910822" type="application/octet-stream" sparkle:edSignature="YPw1i0wFEIbXDHM9IQy9Xd2pWY8B3RsrAdHmJuc9y3iaqP2EQ7XS+u5TZksRErG2sCxUhvc28oedKw9j2PtTBw==" />
+    </item>
+    <item>
       <title>Version 1.49.0</title>
       <pubDate>Tue, 27 Oct 2026 12:23:37 -0500</pubDate>
       <sparkle:version>202610271222</sparkle:version>
