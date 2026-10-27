@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.52.0</title>
+      <pubDate>Tue, 27 Oct 2026 16:50:49 -0500</pubDate>
+      <sparkle:version>202610271539</sparkle:version>
+      <sparkle:shortVersionString>1.52.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga jobs: gate plans, filed files, job logs, iCloud backup diff/sync</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.52.0/Celestia-1.52.0.dmg" length="7988880" type="application/octet-stream" sparkle:edSignature="Rl6//hKUx9E6NQy4gMwUW9Mr5TOZOR193tQ08Agqa8xLbQb9+iLCn/oVzjKLxdPoqKE+iK8QGdy9i/N5pSWEAw==" />
+    </item>
+    <item>
       <title>Version 1.51.0</title>
       <pubDate>Tue, 27 Oct 2026 15:26:30 -0500</pubDate>
       <sparkle:version>202610271430</sparkle:version>
