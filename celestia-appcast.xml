@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.59.0</title>
+      <pubDate>Wed, 28 Oct 2026 12:38:35 -0500</pubDate>
+      <sparkle:version>202610281128</sparkle:version>
+      <sparkle:shortVersionString>1.59.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga: every Plex move goes to the real library behind your approval (the test sandbox is retired); agents' gate and job tools reach the daemon; Till judges the card's dots by their own rule.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.59.0/Celestia-1.59.0.dmg" length="8138628" type="application/octet-stream" sparkle:edSignature="I9ukS9BXHePgoC3XtaimBJvKX4zcgXdlyuiE4COcJjGt6Kwclw6Tqs2THdHMyh//nsThMvKpTAvXq6M3J/HPAA==" />
+    </item>
+    <item>
       <title>Version 1.58.0</title>
       <pubDate>Wed, 28 Oct 2026 08:50:20 -0500</pubDate>
       <sparkle:version>202610280735</sparkle:version>
