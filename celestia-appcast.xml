@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.56.0</title>
+      <pubDate>Wed, 28 Oct 2026 05:23:22 -0500</pubDate>
+      <sparkle:version>202610280407</sparkle:version>
+      <sparkle:shortVersionString>1.56.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga discs: a decision can correct an earlier step and the resume uses it; finished stages stay finished; the card never says Scanning during preflight.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.56.0/Celestia-1.56.0.dmg" length="8141438" type="application/octet-stream" sparkle:edSignature="COckSSxyJiHQajo8wp2imU6yZ26jjvpalo7StmQDaVTpWP4/kt7IAumid4Z8MzIqxtMU9LJ6kdKck6Ipa/BXDQ==" />
+    </item>
+    <item>
       <title>Version 1.55.0</title>
       <pubDate>Wed, 28 Oct 2026 03:10:32 -0500</pubDate>
       <sparkle:version>202610280200</sparkle:version>
