@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.54.0</title>
+      <pubDate>Wed, 28 Oct 2026 01:49:40 -0500</pubDate>
+      <sparkle:version>202610280040</sparkle:version>
+      <sparkle:shortVersionString>1.54.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Till: a deterministic witness that holds every layer of a fabricator run to the others and explains any disagreement (till_status, till_explain, till_trace, till_ask).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.54.0/Celestia-1.54.0.dmg" length="8111754" type="application/octet-stream" sparkle:edSignature="qUJUWjiad9CBncUMsS4YcCfC5dva/xB15UmnANB2FQU6xxe+BGTaVAZeh001DqqpfkW9nAd7DZGW9luWOnKbCg==" />
+    </item>
+    <item>
       <title>Version 1.53.0</title>
       <pubDate>Tue, 27 Oct 2026 21:36:34 -0500</pubDate>
       <sparkle:version>202610272034</sparkle:version>
