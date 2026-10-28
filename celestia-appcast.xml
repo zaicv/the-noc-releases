@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.58.0</title>
+      <pubDate>Wed, 28 Oct 2026 08:50:20 -0500</pubDate>
+      <sparkle:version>202610280735</sparkle:version>
+      <sparkle:shortVersionString>1.58.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Till reads only real writes for the sandbox check and judges the card's dots by their own rule; cancel stops a job's whole process tree and is never recorded as a failure; a Saga decision can correct an earlier step; finished stages stay finished. (1.57.0 skipped.)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.58.0/Celestia-1.58.0.dmg" length="8144921" type="application/octet-stream" sparkle:edSignature="YBuUlcX/GuvhKlcSIoPNHUHq0lnMDVrE9xLRvBraaUJaYXh3SO8Vwk4qz3JlNywN7rF3W/ysfR7A6yXFs0LBDw==" />
+    </item>
+    <item>
       <title>Version 1.56.0</title>
       <pubDate>Wed, 28 Oct 2026 05:23:22 -0500</pubDate>
       <sparkle:version>202610280407</sparkle:version>
