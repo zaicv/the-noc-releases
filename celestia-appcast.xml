@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.53.0</title>
+      <pubDate>Tue, 27 Oct 2026 21:36:34 -0500</pubDate>
+      <sparkle:version>202610272034</sparkle:version>
+      <sparkle:shortVersionString>1.53.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Saga: films run without a disc guide; the drives are no longer polled awake; disc posters; faster Start.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.53.0/Celestia-1.53.0.dmg" length="7998373" type="application/octet-stream" sparkle:edSignature="UA43KBL15SJtOt/UR7Tj/ewoHhM0phZIrtCjKaL51nij+/h/xmEz36OfyKFi96L07AnWaN/SiOdb55BjIlwBDw==" />
+    </item>
+    <item>
       <title>Version 1.52.0</title>
       <pubDate>Tue, 27 Oct 2026 16:50:49 -0500</pubDate>
       <sparkle:version>202610271539</sparkle:version>
