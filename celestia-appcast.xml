@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.61.0</title>
+      <pubDate>Sat, 31 Oct 2026 16:31:10 -0500</pubDate>
+      <sparkle:version>202610311627</sparkle:version>
+      <sparkle:shortVersionString>1.61.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Background tasks for threads: a running tool can be sent to the background (the turn goes on), tasks stopped or read, and a message sent mid-turn shows as queued until read — Send now has it read at once without interrupting anything.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.61.0/Celestia-1.61.0.dmg" length="8157945" type="application/octet-stream" sparkle:edSignature="ze817xxHcVyMobKXus7O9n//m+xRNwfQuaF3kVBTEgejhvcPgfou+iwTMgOVxgpTqQCs4sZg2mmJYFGxQJMUDw==" />
+    </item>
+    <item>
       <title>Version 1.60.1</title>
       <pubDate>Thu, 29 Oct 2026 19:21:48 -0500</pubDate>
       <sparkle:version>202610291920</sparkle:version>
