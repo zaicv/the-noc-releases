@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.62.0</title>
+      <pubDate>Sun, 01 Nov 2026 22:24:13 -0600</pubDate>
+      <sparkle:version>202611012222</sparkle:version>
+      <sparkle:shortVersionString>1.62.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Faster, steadier daemon: reads no longer queue behind slow calls, deadlines and cancellation, journal-keyed caching, stream heartbeats and dead-peer detection, request ids, safe write retries, self-healing parts, honest health with metrics, graceful restarts.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.62.0/Celestia-1.62.0.dmg" length="8290846" type="application/octet-stream" sparkle:edSignature="atWZSZOL4hMFwqXtkpYIueUxLlWAAWPifi88/8jzy3uIUOqZDp4Nkj1asdDLga6TgE9fqckiCXDyl4HXeW6rAg==" />
+    </item>
+    <item>
       <title>Version 1.61.0</title>
       <pubDate>Sat, 31 Oct 2026 16:31:10 -0500</pubDate>
       <sparkle:version>202610311627</sparkle:version>
