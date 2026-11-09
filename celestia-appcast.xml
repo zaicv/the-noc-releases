@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.63.0</title>
+      <pubDate>Mon, 09 Nov 2026 12:42:05 -0600</pubDate>
+      <sparkle:version>202611091237</sparkle:version>
+      <sparkle:shortVersionString>1.63.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The canvas: agents paint a full-screen canvas in Tesseract from a closed catalog (canvas_* tools), with a scene log, a truth check on every synthesis claim, a narrator for real tool calls, outputs (study guide, deck, mind map, audio), and a canvas skill for every agent.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.63.0/Celestia-1.63.0.dmg" length="8452965" type="application/octet-stream" sparkle:edSignature="Q9FjksiOyd346HOQfuHsrKxWKfKt8ZtC+MwiBa0/0nHtaol2AeH4pUDfR/9szOwlSGlG6Lt9TSPg4aD4ZnUWDg==" />
+    </item>
+    <item>
       <title>Version 1.62.0</title>
       <pubDate>Sun, 01 Nov 2026 22:24:13 -0600</pubDate>
       <sparkle:version>202611012222</sparkle:version>
