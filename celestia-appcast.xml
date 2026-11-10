@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.65.1</title>
+      <pubDate>Tue, 10 Nov 2026 08:46:32 -0600</pubDate>
+      <sparkle:version>202611100840</sparkle:version>
+      <sparkle:shortVersionString>1.65.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas: an aside about a pulled line quotes the line.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.65.1/Celestia-1.65.1.dmg" length="8501080" type="application/octet-stream" sparkle:edSignature="oziqM+1g/QTacwCDiwH4SDElqqyKWVBZNB3hOjOirC1xHonDpPmOsHKuKzX+TUKErDUqCvfSmExrhlYZic9nDg==" />
+    </item>
+    <item>
       <title>Version 1.65.0</title>
       <pubDate>Tue, 10 Nov 2026 02:42:21 -0600</pubDate>
       <sparkle:version>202611100238</sparkle:version>
