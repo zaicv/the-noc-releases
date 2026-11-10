@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.65.2</title>
+      <pubDate>Tue, 10 Nov 2026 09:12:55 -0600</pubDate>
+      <sparkle:version>202611100908</sparkle:version>
+      <sparkle:shortVersionString>1.65.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Claude accounts: threads on the second login now find it (the login folder was passed with a trailing slash, so Claude saw no login).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.65.2/Celestia-1.65.2.dmg" length="8500843" type="application/octet-stream" sparkle:edSignature="IixSF+HYGIa81SyXLOpzIM2zskhKrRDwufPkJi+SUx7WxXfKAIqrrrDechVnl+4BW83MvHiPTRjr2lkrRH6LBQ==" />
+    </item>
+    <item>
       <title>Version 1.65.1</title>
       <pubDate>Tue, 10 Nov 2026 08:46:32 -0600</pubDate>
       <sparkle:version>202611100840</sparkle:version>
