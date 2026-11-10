@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.66.0</title>
+      <pubDate>Tue, 10 Nov 2026 09:31:50 -0600</pubDate>
+      <sparkle:version>202611100927</sparkle:version>
+      <sparkle:shortVersionString>1.66.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas: real covers, first pages, previews and icons, found by the home server and kept in the vault.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.66.0/Celestia-1.66.0.dmg" length="8537026" type="application/octet-stream" sparkle:edSignature="r8J9vm/PDQ0bNJHefzRG/D8XgrXBOWJOO1IeK9IJS+BXLABF/kllOOiQs383BHmxJ04yDJy3w9QOIGlbz4OUDw==" />
+    </item>
+    <item>
       <title>Version 1.65.2</title>
       <pubDate>Tue, 10 Nov 2026 09:12:55 -0600</pubDate>
       <sparkle:version>202611100908</sparkle:version>
