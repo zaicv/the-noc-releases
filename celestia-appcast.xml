@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.65.0</title>
+      <pubDate>Tue, 10 Nov 2026 02:42:21 -0600</pubDate>
+      <sparkle:version>202611100238</sparkle:version>
+      <sparkle:shortVersionString>1.65.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas v2: real things named by identity (book ISBN, paper DOI, page URL, file path…), lineage (from) and roles, a grammar for what agents compose, the sky's atmosphere instead of field boxes, excerpt and composed-claim checks, guarded outside fetches, skill v3, and asides (ask/resume) about one thing on the canvas.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.65.0/Celestia-1.65.0.dmg" length="8500429" type="application/octet-stream" sparkle:edSignature="4VPU3uU57JAQq/RKdF+OGyAK8zq9ZKROYufcxTx4S+jpzmqeGz5Wf74oPiK4iECiSk4SKd9DAMnWzkZqtFOZCQ==" />
+    </item>
+    <item>
       <title>Version 1.64.0</title>
       <pubDate>Mon, 09 Nov 2026 17:10:26 -0600</pubDate>
       <sparkle:version>202611091658</sparkle:version>
