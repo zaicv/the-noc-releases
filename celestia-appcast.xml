@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.67.1</title>
+      <pubDate>Tue, 10 Nov 2026 10:48:49 -0600</pubDate>
+      <sparkle:version>202611101044</sparkle:version>
+      <sparkle:shortVersionString>1.67.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Claude accounts: threads on your second login keep every N.O.C. tool (the canvas among them).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.67.1/Celestia-1.67.1.dmg" length="8555481" type="application/octet-stream" sparkle:edSignature="n/aG7ikhyep7iz5+nKBKM6ROPPgCjEKwCHucpe/WdOwtiFTOOTEvnL01+0qOASzSE1smKkV2zA+X2YRdAIPOCg==" />
+    </item>
+    <item>
       <title>Version 1.67.0</title>
       <pubDate>Tue, 10 Nov 2026 10:27:41 -0600</pubDate>
       <sparkle:version>202611101023</sparkle:version>
