@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.68.0</title>
+      <pubDate>Wed, 11 Nov 2026 13:33:30 -0600</pubDate>
+      <sparkle:version>202611111328</sparkle:version>
+      <sparkle:shortVersionString>1.68.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas Stage release 1: orb_verb gains attend, release and relocate for the stage; a helper's own calls are drawn as its work and an adversary waits at the claim it attacks (Canvas B4).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.68.0/Celestia-1.68.0.dmg" length="8574151" type="application/octet-stream" sparkle:edSignature="PVtc26KLX0E3Vy3xxgcx56xGItthxGfSQEYtSI3ivoLgWs+arYDnqVknZtpeVZ8QiUu9dLDMgUNoFQtIH3Z/Ag==" />
+    </item>
+    <item>
       <title>Version 1.67.1</title>
       <pubDate>Tue, 10 Nov 2026 10:48:49 -0600</pubDate>
       <sparkle:version>202611101044</sparkle:version>
