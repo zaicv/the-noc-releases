@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.69.0</title>
+      <pubDate>Thu, 12 Nov 2026 22:39:41 -0600</pubDate>
+      <sparkle:version>202611122232</sparkle:version>
+      <sparkle:shortVersionString>1.69.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Canvas stage: his apps' own views as Canvas things (the component kind and its manifest), so the stage can place them live.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.69.0/Celestia-1.69.0.dmg" length="8590204" type="application/octet-stream" sparkle:edSignature="IXvh1T+udYe3sOuJXN2y2Tl5hK06q9HYxMzBLOPBOEjX/efBqpc/XDmhA0ybYgxA8ZqvSdZluchw0+QHxw9uCA==" />
+    </item>
+    <item>
       <title>Version 1.68.0</title>
       <pubDate>Wed, 11 Nov 2026 13:33:30 -0600</pubDate>
       <sparkle:version>202611111328</sparkle:version>
