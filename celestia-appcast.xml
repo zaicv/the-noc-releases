@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.70.0</title>
+      <pubDate>Fri, 13 Nov 2026 14:04:05 -0600</pubDate>
+      <sparkle:version>202611131402</sparkle:version>
+      <sparkle:shortVersionString>1.70.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>noc mcp on the home Mac is now a relay to the daemon: one writer to the vault, every Claude session's calls through the write queue, metrics and idempotency. Sessions keep their tools across a daemon restart. noc mcp --standalone runs the old in-process server.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.70.0/Celestia-1.70.0.dmg" length="8633418" type="application/octet-stream" sparkle:edSignature="vXrlYvHfgV/DPxzjGwnnb/r8FSGIaH1Y2K9qRmOeT5WAczanYpsyls6CTylUHQIgzHG8teOaRzTJMrXJyoFXCw==" />
+    </item>
+    <item>
       <title>Version 1.69.0</title>
       <pubDate>Thu, 12 Nov 2026 22:39:41 -0600</pubDate>
       <sparkle:version>202611122232</sparkle:version>
