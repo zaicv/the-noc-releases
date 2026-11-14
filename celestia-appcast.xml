@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.77.0</title>
+      <pubDate>Sat, 14 Nov 2026 08:32:36 -0600</pubDate>
+      <sparkle:version>202611140831</sparkle:version>
+      <sparkle:shortVersionString>1.77.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Contract 3: every field apps read is declared and typed, resource events say what they are about, and the contract rule can no longer be passed by re-emitting the file.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.77.0/Celestia-1.77.0.dmg" length="8832020" type="application/octet-stream" sparkle:edSignature="Tvle+MvsP3Mra3l3mI3ONDdpqAF2nwQFctUcJN9z3JuKFs3cb322r8AWKaIsnHXelCqFQGWu5JXdJ/eVBTwEAg==" />
+    </item>
+    <item>
       <title>Version 1.76.0</title>
       <pubDate>Sat, 14 Nov 2026 00:12:21 -0600</pubDate>
       <sparkle:version>202611140011</sparkle:version>
