@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.72.0</title>
+      <pubDate>Fri, 13 Nov 2026 19:18:00 -0600</pubDate>
+      <sparkle:version>202611131914</sparkle:version>
+      <sparkle:shortVersionString>1.72.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fast: the daemon tells clients when the vault changes instead of being asked every two seconds; a slow connector or Saga call no longer holds up vault writes; a stuck subprocess is killed and reported; big or slow reads are served from a short cache; the idempotency store no longer rewrites a 26 MB file per write.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.72.0/Celestia-1.72.0.dmg" length="8720214" type="application/octet-stream" sparkle:edSignature="W50LwZvlvDzD41eUwhNG3mBzmJAiHpsrIgoPZoux5I8/1O7psaf7yY+Sb0teHKfvMiUoNDIS6q1nCypSrkCKCw==" />
+    </item>
+    <item>
       <title>Version 1.71.0</title>
       <pubDate>Fri, 13 Nov 2026 15:22:03 -0600</pubDate>
       <sparkle:version>202611131520</sparkle:version>
