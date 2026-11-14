@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.73.0</title>
+      <pubDate>Fri, 13 Nov 2026 20:30:44 -0600</pubDate>
+      <sparkle:version>202611132029</sparkle:version>
+      <sparkle:shortVersionString>1.73.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Failures explain and repair themselves: every error says what it is, whether to retry and what to do; a connector or voice that keeps failing is cut off at once with a reason and tried again every 30 s; bad parts of the stack are restarted by the server within a budget; every repair, give-up and watchdog restart is written to an incident file.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.73.0/Celestia-1.73.0.dmg" length="8811768" type="application/octet-stream" sparkle:edSignature="Q5GhinX+nEDEvXZ131u4GVNxg5SVsvXAj9MrHakAoLPEV2gLxE6gW5v6/OOTC3wnljkyDG8UrFat3cHmHH6QDw==" />
+    </item>
+    <item>
       <title>Version 1.72.0</title>
       <pubDate>Fri, 13 Nov 2026 19:18:00 -0600</pubDate>
       <sparkle:version>202611131914</sparkle:version>
