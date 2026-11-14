@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.74.0</title>
+      <pubDate>Fri, 13 Nov 2026 21:21:15 -0600</pubDate>
+      <sparkle:version>202611132120</sparkle:version>
+      <sparkle:shortVersionString>1.74.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fixes after 1.72 on the real Mini: an update now reinstalls the server's LaunchAgent and the watchdog; a restart waits for the old server to finish leaving; the watchdog restarts a server job that isn't loaded; the heartbeat reports its version and health and no longer fires from the test harness; reply-cache hits show in the trace.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.74.0/Celestia-1.74.0.dmg" length="8817240" type="application/octet-stream" sparkle:edSignature="mCkOTQnObd2FJqeTKfGJ7WIxsqhJ4A7WPYRvGSRGdNfm36taDUme1n/COkf2EzKf5cVNM/QG86k4AXhZ5mASAQ==" />
+    </item>
+    <item>
       <title>Version 1.73.0</title>
       <pubDate>Fri, 13 Nov 2026 20:30:44 -0600</pubDate>
       <sparkle:version>202611132029</sparkle:version>
