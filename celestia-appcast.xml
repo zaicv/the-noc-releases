@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.3</title>
+      <pubDate>Tue, 17 Nov 2026 13:32:33 -0600</pubDate>
+      <sparkle:version>202611171320</sparkle:version>
+      <sparkle:shortVersionString>1.80.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Memory tools and the agent list off the main thread; notes written outside the server (Obsidian, agents) now show up in search and lists; safer unattended updates; quieter vault watching.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.80.3/Celestia-1.80.3.dmg" length="9000553" type="application/octet-stream" sparkle:edSignature="nNjJEfqWqepdKC6Bj4U6x/q4hC1JvJedHGZzt38Oqk+FSz4VzYJ7UQzyQYCPYiBSDmHIrYWUDag0N4kxh9BjCg==" />
+    </item>
+    <item>
       <title>Version 1.80.2</title>
       <pubDate>Tue, 17 Nov 2026 06:37:39 -0600</pubDate>
       <sparkle:version>202611170626</sparkle:version>
