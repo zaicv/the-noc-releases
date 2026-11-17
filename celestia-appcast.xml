@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.2</title>
+      <pubDate>Tue, 17 Nov 2026 06:37:39 -0600</pubDate>
+      <sparkle:version>202611170626</sparkle:version>
+      <sparkle:shortVersionString>1.80.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Updates install themselves again: a read-only call no longer counts as activity, so home can be quiet. Also the Supervisor checks standing sessions off the main actor.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.80.2/Celestia-1.80.2.dmg" length="8993933" type="application/octet-stream" sparkle:edSignature="WzSHI3qndOiFP4HD32+lOD59wszcxwUtFqomfVsGjYXe0FcIQXhf3/0reGvOFcwUvQP7fmFK2QM8fVCvlsjxDg==" />
+    </item>
+    <item>
       <title>Version 1.80.1</title>
       <pubDate>Tue, 17 Nov 2026 05:04:25 -0600</pubDate>
       <sparkle:version>202611170453</sparkle:version>
