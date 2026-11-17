@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.0</title>
+      <pubDate>Tue, 17 Nov 2026 00:54:08 -0600</pubDate>
+      <sparkle:version>202611170042</sparkle:version>
+      <sparkle:shortVersionString>1.80.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hardening, the final phase: soaks that cannot leak, a vault push that cannot stall home, writes patched in place, breakers and repairs for Docker, Ollama, Tailscale and Supabase, a vault git sweep off the main actor, updates that install when home is quiet and roll back on their own, a daily backup with a proven restore, crash reports as incidents.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.80.0/Celestia-1.80.0.dmg" length="8985879" type="application/octet-stream" sparkle:edSignature="Zx+nBUHOqVDnNe5UorUZQiDgE/AHYSkAARUjOeHL1fan814dzICuW/5gL0l9fid+7OXtgV8WyoKpKvW5Nl+sBw==" />
+    </item>
+    <item>
       <title>Version 1.79.0</title>
       <pubDate>Sun, 15 Nov 2026 08:07:12 -0600</pubDate>
       <sparkle:version>202611150758</sparkle:version>
