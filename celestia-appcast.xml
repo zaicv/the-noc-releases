@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.5</title>
+      <pubDate>Tue, 17 Nov 2026 16:50:22 -0600</pubDate>
+      <sparkle:version>202611171635</sparkle:version>
+      <sparkle:shortVersionString>1.80.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The old TheNOC app's sources leave the daemon (noc 17.4 to 13.9 MB); no new empty vault-* folders</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.80.5/Celestia-1.80.5.dmg" length="7557798" type="application/octet-stream" sparkle:edSignature="HLrUQP0l1TPBpOoEhezerr+dzFQunYwRG5M0pR9DvnnCFifS+w1tetXkxN0K9ZEsnU86J9agqHYAZAF8ogeJDA==" />
+    </item>
+    <item>
       <title>Version 1.80.4</title>
       <pubDate>Tue, 17 Nov 2026 14:58:38 -0600</pubDate>
       <sparkle:version>202611171446</sparkle:version>
