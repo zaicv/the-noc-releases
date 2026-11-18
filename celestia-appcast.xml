@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.81.4</title>
+      <pubDate>Wed, 18 Nov 2026 15:34:32 -0600</pubDate>
+      <sparkle:version>202611181524</sparkle:version>
+      <sparkle:shortVersionString>1.81.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Answer gate: a quote read through grep context lines is no longer withheld by mistake</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.81.4/Celestia-1.81.4.dmg" length="7577552" type="application/octet-stream" sparkle:edSignature="yI+VdxEGHnUSoP6GGlvSUqTHq6q5BwrTSSTRAQH9P+eDNhezqaYvCEubwaQ33NOn1bMkIqGmuAbLHRVcnNYIDg==" />
+    </item>
+    <item>
       <title>Version 1.81.3</title>
       <pubDate>Wed, 18 Nov 2026 14:59:10 -0600</pubDate>
       <sparkle:version>202611181449</sparkle:version>
