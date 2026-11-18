@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.6</title>
+      <pubDate>Tue, 17 Nov 2026 21:39:49 -0600</pubDate>
+      <sparkle:version>202611172128</sparkle:version>
+      <sparkle:shortVersionString>1.80.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Backend cleanup, final: the daemon keeps a per-tool, per-day count of every tool call (tool-usage.json, 120 days) so unused tools can be retired on evidence. Also carries the watchdog's Tailscale Funnel self-heal.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.80.6/Celestia-1.80.6.dmg" length="7563316" type="application/octet-stream" sparkle:edSignature="9FDyeHZ56FTIxW3b9DWhu4uJmpXZ8dmA186ecxjvrtMy6LD45E6kmf/TSoHY3inQ9Tc2olMfBm5sKWhLuyzhDw==" />
+    </item>
+    <item>
       <title>Version 1.80.5</title>
       <pubDate>Tue, 17 Nov 2026 16:50:22 -0600</pubDate>
       <sparkle:version>202611171635</sparkle:version>
