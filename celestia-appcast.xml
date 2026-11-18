@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.7</title>
+      <pubDate>Tue, 17 Nov 2026 22:50:52 -0600</pubDate>
+      <sparkle:version>202611172238</sparkle:version>
+      <sparkle:shortVersionString>1.80.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Continuum owns search and the map: rag_query and vault_graph_* answer from one supervised Continuum process the change journal keeps fresh (search p95 under 100 ms, keyword fallback past 1.5 s); semantic_search and the graphify/embedding folder tools are retired; contract 5.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.80.7/Celestia-1.80.7.dmg" length="7528990" type="application/octet-stream" sparkle:edSignature="0tBf9iYFWs5HV6objMPRR2Uaw9YAlENaZR+XTv7tr5G0rAy5y3fBR9qeTIAx3lkWzEQuzbJvt1W+8Mdt26TLDw==" />
+    </item>
+    <item>
       <title>Version 1.80.6</title>
       <pubDate>Tue, 17 Nov 2026 21:39:49 -0600</pubDate>
       <sparkle:version>202611172128</sparkle:version>
