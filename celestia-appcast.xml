@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.80.8</title>
+      <pubDate>Tue, 17 Nov 2026 23:32:36 -0600</pubDate>
+      <sparkle:version>202611172322</sparkle:version>
+      <sparkle:shortVersionString>1.80.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Celestia's menu-bar search asks rag_query (Continuum) when keywords find nothing; a vault change re-indexes only the changed notes, so rag_query and search_vault stay fast after every edit.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.80.8/Celestia-1.80.8.dmg" length="7532924" type="application/octet-stream" sparkle:edSignature="5I/y+Akee3AW8o/xDHm8hQFnAKee7Lx2gvxDe67WJVBlixYYPGnEdl2r4rna5Cas+uBXiSnzumkkXkEjvXckCg==" />
+    </item>
+    <item>
       <title>Version 1.80.7</title>
       <pubDate>Tue, 17 Nov 2026 22:50:52 -0600</pubDate>
       <sparkle:version>202611172238</sparkle:version>
