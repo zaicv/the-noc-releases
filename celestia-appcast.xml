@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.83.0</title>
+      <pubDate>Thu, 19 Nov 2026 10:52:54 -0600</pubDate>
+      <sparkle:version>202611191042</sparkle:version>
+      <sparkle:shortVersionString>1.83.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>BCS B1, one anatomy: each Being is one BEING.md, and its roster record and agent file are compiled from it (noc being compile). The agent setters write BEING.md.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.83.0/Celestia-1.83.0.dmg" length="7669004" type="application/octet-stream" sparkle:edSignature="fcxUSy02iTkr3hdSSFZXMmISi7VZfYPr0aN1KpZYY3LSuNP9jWb2na0SoHXp3UlU+8ySqUDNqBWJntY9r5UbAQ==" />
+    </item>
+    <item>
       <title>Version 1.82.4</title>
       <pubDate>Thu, 19 Nov 2026 07:28:57 -0600</pubDate>
       <sparkle:version>202611190719</sparkle:version>
