@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.82.0</title>
+      <pubDate>Wed, 18 Nov 2026 18:05:06 -0600</pubDate>
+      <sparkle:version>202611181754</sparkle:version>
+      <sparkle:shortVersionString>1.82.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Hand it to Delphi: one door into the vault. delphi_hand files what you hand her by her rules (Haiku only when none fits, a question when unsure) with undo; raw/Waystation is a drop folder; the new-file nudge is retired; contract 7.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.82.0/Celestia-1.82.0.dmg" length="7636165" type="application/octet-stream" sparkle:edSignature="JEscHi+JpoI3Cmj8cQ7PQA1amhyFWTvXrXa2HALo5VO/SF+kH7SjZY96cFjIhc6RjL9NH8vurutp63AbjFXUBw==" />
+    </item>
+    <item>
       <title>Version 1.81.4</title>
       <pubDate>Wed, 18 Nov 2026 15:34:32 -0600</pubDate>
       <sparkle:version>202611181524</sparkle:version>
