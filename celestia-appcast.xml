@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.82.1</title>
+      <pubDate>Wed, 18 Nov 2026 19:31:30 -0600</pubDate>
+      <sparkle:version>202611181921</sparkle:version>
+      <sparkle:shortVersionString>1.82.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Delphi: a filing's absorb is followed through an owner's catch-up pass and across a daemon restart.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.82.1/Celestia-1.82.1.dmg" length="7637337" type="application/octet-stream" sparkle:edSignature="hfSonolBmmm4EjJJ5oGLhHy98HTfqxymNrU8EpQ8OVbj8rML8HfS3y7IDcump4i5iv8at0uxyb0EdFO8aWMFBg==" />
+    </item>
+    <item>
       <title>Version 1.82.0</title>
       <pubDate>Wed, 18 Nov 2026 18:05:06 -0600</pubDate>
       <sparkle:version>202611181754</sparkle:version>
