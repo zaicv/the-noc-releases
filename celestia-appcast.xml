@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.82.4</title>
+      <pubDate>Thu, 19 Nov 2026 07:28:57 -0600</pubDate>
+      <sparkle:version>202611190719</sparkle:version>
+      <sparkle:shortVersionString>1.82.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Revival: the Stack node keys on row ids and goes red when its status file can't be read.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.82.4/Celestia-1.82.4.dmg" length="7645449" type="application/octet-stream" sparkle:edSignature="GNtlQf/R/rxwPF3m9aE/H2i6rzWErcp/XrmdorvKyEl2rZLesN+q75G21wGvYALU7oh1BZPftUF4eK9XYzFJBA==" />
+    </item>
+    <item>
       <title>Version 1.82.3</title>
       <pubDate>Thu, 19 Nov 2026 01:34:50 -0600</pubDate>
       <sparkle:version>202611190123</sparkle:version>
