@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.82.3</title>
+      <pubDate>Thu, 19 Nov 2026 01:34:50 -0600</pubDate>
+      <sparkle:version>202611190123</sparkle:version>
+      <sparkle:shortVersionString>1.82.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Revival on the Stack page: hourly NAS and nightly iCloud copies, restores proven, overdue alert</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.82.3/Celestia-1.82.3.dmg" length="7645646" type="application/octet-stream" sparkle:edSignature="vrFn1L0N9ENE1sHhw4jW/FtxN6w0OJYJkEu0LB1VtD5WqFnvm+KyH5sLdGgLHMhiVMfBV49pSG5qlARbuEUvDA==" />
+    </item>
+    <item>
       <title>Version 1.82.2</title>
       <pubDate>Wed, 18 Nov 2026 21:29:55 -0600</pubDate>
       <sparkle:version>202611182119</sparkle:version>
