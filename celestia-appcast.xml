@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.82.2</title>
+      <pubDate>Wed, 18 Nov 2026 21:29:55 -0600</pubDate>
+      <sparkle:version>202611182119</sparkle:version>
+      <sparkle:shortVersionString>1.82.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Delphi: a filing's way into the Continuum as a real percentage (contract 8).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.82.2/Celestia-1.82.2.dmg" length="7640026" type="application/octet-stream" sparkle:edSignature="/u87d4bbRBAYqgzDJM/gQaorGhLo00ferM31wL1RfI4Jih9dl8PAEWScjlC4TWClPgV3GFpUqMxfPNTfgxHEBQ==" />
+    </item>
+    <item>
       <title>Version 1.82.1</title>
       <pubDate>Wed, 18 Nov 2026 19:31:30 -0600</pubDate>
       <sparkle:version>202611181921</sparkle:version>
