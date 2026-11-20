@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.84.0</title>
+      <pubDate>Thu, 19 Nov 2026 23:03:08 -0600</pubDate>
+      <sparkle:version>202611192252</sparkle:version>
+      <sparkle:shortVersionString>1.84.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Agents find their folders from one place (BCS B1b): a path layout every reader asks, a lint that keeps it that way, and noc being move, proven by manifest. Also: the update installs itself again while Tesseract is open (a read-only connector call no longer counts as a write).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.84.0/Celestia-1.84.0.dmg" length="7788664" type="application/octet-stream" sparkle:edSignature="2SAHMhEL1F4cufUqT4vSD5DlqFN1NNqVLXtdc91XD8ts11qRf0mydVZwTOCvkd2uOcT8jdjuDvkeNdZq+dayBw==" />
+    </item>
+    <item>
       <title>Version 1.83.0</title>
       <pubDate>Thu, 19 Nov 2026 10:52:54 -0600</pubDate>
       <sparkle:version>202611191042</sparkle:version>
