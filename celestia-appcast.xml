@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.85.0</title>
+      <pubDate>Fri, 20 Nov 2026 00:39:51 -0600</pubDate>
+      <sparkle:version>202611200028</sparkle:version>
+      <sparkle:shortVersionString>1.85.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Clio can commit the vault and push it as two steps, and turn the routine sync on or off (sync_vault mode, vault_autosync; contract 9)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.85.0/Celestia-1.85.0.dmg" length="7793747" type="application/octet-stream" sparkle:edSignature="o3858k5J9A79ajtznGLRLw5Aeei4Pkd2LID8MdZ92g6M32pHvSzNqGgoKPAgZSTYvgMSrxuQyl4E5ltypZnfBg==" />
+    </item>
+    <item>
       <title>Version 1.84.0</title>
       <pubDate>Thu, 19 Nov 2026 23:03:08 -0600</pubDate>
       <sparkle:version>202611192252</sparkle:version>
