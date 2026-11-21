@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.87.0</title>
+      <pubDate>Sat, 21 Nov 2026 11:03:25 -0600</pubDate>
+      <sparkle:version>202611211053</sparkle:version>
+      <sparkle:shortVersionString>1.87.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Agent threads run an engine tool by its own risk: safe and undoable engine writes (an Energia list, a dish) no longer stop on a Claude permission prompt; destructive and gated ones still ask. Energia gets people and menu categories.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.87.0/Celestia-1.87.0.dmg" length="7798761" type="application/octet-stream" sparkle:edSignature="MXs2z3E8BHJBy+sPm0elcvNRtEga5S+a+EEdwQ4GeeDG4WMVcVRP6EOl87qx1t4W7RyjTzrJRgb+J/InsrnTBA==" />
+    </item>
+    <item>
       <title>Version 1.86.0</title>
       <pubDate>Fri, 20 Nov 2026 14:39:46 -0600</pubDate>
       <sparkle:version>202611201432</sparkle:version>
