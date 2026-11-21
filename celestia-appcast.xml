@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.87.3</title>
+      <pubDate>Sat, 21 Nov 2026 12:07:27 -0600</pubDate>
+      <sparkle:version>202611211159</sparkle:version>
+      <sparkle:shortVersionString>1.87.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Fix: agent threads now really run safe and undoable engine tools without a prompt (1.87.0 looked up risks in read-only mode, which hid the write tools).</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.87.3/Celestia-1.87.3.dmg" length="7798266" type="application/octet-stream" sparkle:edSignature="53ZH3q6u9n6DL4kadhUhptUOeM+8aXE7oo2E1wy815Ns2oDIpFIEVkW3COZMAh04iXstvBiQf9nDfHqlFf2yAQ==" />
+    </item>
+    <item>
       <title>Version 1.87.0</title>
       <pubDate>Sat, 21 Nov 2026 11:03:25 -0600</pubDate>
       <sparkle:version>202611211053</sparkle:version>
