@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.88.1</title>
+      <pubDate>Sun, 22 Nov 2026 17:02:16 -0600</pubDate>
+      <sparkle:version>202611221652</sparkle:version>
+      <sparkle:shortVersionString>1.88.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>T1 review close-out: an overloaded API is retried inside the turn; after a crash the old process is stopped before a turn resumes; Phoebe's chat threads resume too; a spoken retry stays spoken.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.88.1/Celestia-1.88.1.dmg" length="7831788" type="application/octet-stream" sparkle:edSignature="aQQO1Kbqx+y0qgN48arSqe2zln+ArL15r2biflLNpBKxvNZWcT0fYngAVijfIi2hQM9Rl2xhmnDWI8N5gEWXBQ==" />
+    </item>
+    <item>
       <title>Version 1.88.0</title>
       <pubDate>Sun, 22 Nov 2026 15:44:10 -0600</pubDate>
       <sparkle:version>202611221533</sparkle:version>
