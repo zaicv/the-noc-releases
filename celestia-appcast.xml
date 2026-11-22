@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.88.0</title>
+      <pubDate>Sun, 22 Nov 2026 15:44:10 -0600</pubDate>
+      <sparkle:version>202611221533</sparkle:version>
+      <sparkle:shortVersionString>1.88.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Every message ends: a turn that goes quiet or whose process dies is recovered (nudge, restart, resume) or ends with a code, a reason and a remedy; a lost session is rebuilt from the thread's record; the daemon continues turns left open by a restart; a refused login moves the turn to the next login; a limit move carries the session. Contract 11.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.88.0/Celestia-1.88.0.dmg" length="7822091" type="application/octet-stream" sparkle:edSignature="POQexdZE0wUGq/ULNQZlUjiDFf0kJPEMmgeEznBtyMKiO7UvijY6ELWSQjgrmutSSR9/0py9k0LTfNuMX/9xAQ==" />
+    </item>
+    <item>
       <title>Version 1.87.3</title>
       <pubDate>Sat, 21 Nov 2026 12:07:27 -0600</pubDate>
       <sparkle:version>202611211159</sparkle:version>
