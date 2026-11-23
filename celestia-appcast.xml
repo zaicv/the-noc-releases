@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.91.0</title>
+      <pubDate>Mon, 23 Nov 2026 10:02:17 -0600</pubDate>
+      <sparkle:version>202611230951</sparkle:version>
+      <sparkle:shortVersionString>1.91.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>B2, the Soul and one wake: Phoebe and Friday have Souls; every way of starting a Being (thread, glance, voice, terminal) is built by one launcher and wakes with the same identity and what the Brain recalls (a warm Brain, 150 ms cap); being_wake for sessions the daemon did not start (contract 12); a hung daemon refuses a live Being move.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.91.0/Celestia-1.91.0.dmg" length="7899325" type="application/octet-stream" sparkle:edSignature="KNvX4UA8y/4GJfyx8IEN6Ad0Cyz6Ed3Y/jCWiwFEyiXgmeolz84LFLc6IYqQqX/X6G45VFUjhNK/9GJPeZkwBA==" />
+    </item>
+    <item>
       <title>Version 1.90.0</title>
       <pubDate>Sun, 22 Nov 2026 23:06:53 -0600</pubDate>
       <sparkle:version>202611222256</sparkle:version>
