@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.90.0</title>
+      <pubDate>Sun, 22 Nov 2026 23:06:53 -0600</pubDate>
+      <sparkle:version>202611222256</sparkle:version>
+      <sparkle:shortVersionString>1.90.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>BCS B1c: the cutover machinery. Beings keep their tools, skills and organs under Expertise/; LAYOUT names the expertise role; a Being already moved can be re-shelved and a folder at Phoebe/ root moved, each proven by manifest; .claude links follow what moves; connector paths are role tokens; an old path in a citation still reads; a live move refuses unless the daemon is down or draining; the anatomy lint.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.90.0/Celestia-1.90.0.dmg" length="7877864" type="application/octet-stream" sparkle:edSignature="iWWwrQnJtF5Boz/qnfNq1e7iYaSwWyei7F2c8xmF7wCLvRjswU2k+9VnRndBTGB2VMrT5SDZ/dZF7yJhEqRdDQ==" />
+    </item>
+    <item>
       <title>Version 1.89.1</title>
       <pubDate>Sun, 22 Nov 2026 20:56:40 -0600</pubDate>
       <sparkle:version>202611222046</sparkle:version>
