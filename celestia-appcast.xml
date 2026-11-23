@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.91.3</title>
+      <pubDate>Mon, 23 Nov 2026 13:40:34 -0600</pubDate>
+      <sparkle:version>202611231330</sparkle:version>
+      <sparkle:shortVersionString>1.91.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>A session the daemon starts is its own lane: an agent's own tools no longer queue behind the call waiting on it (send_to_agent with wait held the write line, so Arc threads and a glance beside them never started); verify refuses any tool that waits inside the write line.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.91.3/Celestia-1.91.3.dmg" length="7898915" type="application/octet-stream" sparkle:edSignature="r8c4vqLjeQTaRgoKMZPwrARxb5qQFShS1Fz25gPaLMeAwXrzRdUo89xlQAJaVDVZ8aDVBSML+5xyYwedZKaaAQ==" />
+    </item>
+    <item>
       <title>Version 1.91.2</title>
       <pubDate>Mon, 23 Nov 2026 10:49:44 -0600</pubDate>
       <sparkle:version>202611231041</sparkle:version>
