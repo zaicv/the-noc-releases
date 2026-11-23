@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.91.4</title>
+      <pubDate>Mon, 23 Nov 2026 15:20:22 -0600</pubDate>
+      <sparkle:version>202611231508</sparkle:version>
+      <sparkle:shortVersionString>1.91.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>A Being can name its own standby heart (set_agent_heart standby, saved in its BEING.md); failover moves to it first and goes no further, so Phoebe falls back to Claude and never to the free chain. Contract 13.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.91.4/Celestia-1.91.4.dmg" length="7919323" type="application/octet-stream" sparkle:edSignature="qisy2VC9849scwMXlB0xKw1rBOw0rTtNvfYVet639ZrDogYunob6r/uA+t4OagtOKHO5/ZGGpuh2qGZEH7nqAQ==" />
+    </item>
+    <item>
       <title>Version 1.91.3</title>
       <pubDate>Mon, 23 Nov 2026 13:40:34 -0600</pubDate>
       <sparkle:version>202611231330</sparkle:version>
