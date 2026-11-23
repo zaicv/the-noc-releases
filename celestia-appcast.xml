@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.89.0</title>
+      <pubDate>Sun, 22 Nov 2026 19:46:03 -0600</pubDate>
+      <sparkle:version>202611221935</sparkle:version>
+      <sparkle:shortVersionString>1.89.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Every spoken turn ends in her answer or a spoken reason: deadlines, a breaker on speech, a limit moves to the next login or heart and she says so once, a hold that lapses, one voice.turn record per turn, the voice route off the main thread.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.89.0/Celestia-1.89.0.dmg" length="7862195" type="application/octet-stream" sparkle:edSignature="dTdKH+1SloY3QUIYWRN5cYWyiWtqO3g5vF8tn6+j3O/VueFAafakNPiNirqsNuqVTCAvtltK5UPAqGIgiU01Bg==" />
+    </item>
+    <item>
       <title>Version 1.88.1</title>
       <pubDate>Sun, 22 Nov 2026 17:02:16 -0600</pubDate>
       <sparkle:version>202611221652</sparkle:version>
