@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.92.1</title>
+      <pubDate>Mon, 23 Nov 2026 22:32:25 -0600</pubDate>
+      <sparkle:version>202611232221</sparkle:version>
+      <sparkle:shortVersionString>1.92.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>IX1 Indexing: rag_query no longer waits a fixed 320 ms on its keyword half and leans on Continuum (blend 0.1); vault_graph_path names the exact hops through Continuum's new continuum_path; the canon warning appears only on a real disagreement; the Continuum owner's own log reaches the dev trace</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.92.1/Celestia-1.92.1.dmg" length="8023151" type="application/octet-stream" sparkle:edSignature="YeOVTtCQCfuaa+Ufde2SlfqZzldo7obUPYUCtYbL9wxf0rhuOxfkpSoY48zO33zw88SHs2uAUBdbM+EenqIXAg==" />
+    </item>
+    <item>
       <title>Version 1.92.0</title>
       <pubDate>Mon, 23 Nov 2026 18:24:56 -0600</pubDate>
       <sparkle:version>202611231814</sparkle:version>
