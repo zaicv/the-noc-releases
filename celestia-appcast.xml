@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.92.2</title>
+      <pubDate>Mon, 23 Nov 2026 23:49:11 -0600</pubDate>
+      <sparkle:version>202611232338</sparkle:version>
+      <sparkle:shortVersionString>1.92.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>IX1 close-out: the canon warning ignores versions and ordinals; the Continuum owner starts offline for its cached model; with arc, a graph pass that fails keeps its files and an incremental pass takes about 2 minutes instead of 5</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.92.2/Celestia-1.92.2.dmg" length="8024212" type="application/octet-stream" sparkle:edSignature="ciDPye2aXdfsDjO3zkxb+qarSgTVp92WSHVYyU4WV2ww5upKX3tlp2JvHCmL9BebM6TL9wRzFjIdar48IifqBQ==" />
+    </item>
+    <item>
       <title>Version 1.92.1</title>
       <pubDate>Mon, 23 Nov 2026 22:32:25 -0600</pubDate>
       <sparkle:version>202611232221</sparkle:version>
