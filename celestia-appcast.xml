@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.92.0</title>
+      <pubDate>Mon, 23 Nov 2026 18:24:56 -0600</pubDate>
+      <sparkle:version>202611231814</sparkle:version>
+      <sparkle:shortVersionString>1.92.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>TVA phase 1, one clock and one record: the Spine (timeline_query, pointer_read, time_now, time_rebuild), the Time block in every Being's wake, noc time. Contract 14, additive.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.92.0/Celestia-1.92.0.dmg" length="8011997" type="application/octet-stream" sparkle:edSignature="4+z7110R4d5YWKMI59d40Yy0N/z2r7NwYf2IubDOmb1DUc9kNRYvp65YgIk0ys63J1rLeDLTmPNczpltuYdEDw==" />
+    </item>
+    <item>
       <title>Version 1.91.4</title>
       <pubDate>Mon, 23 Nov 2026 15:20:22 -0600</pubDate>
       <sparkle:version>202611231508</sparkle:version>
