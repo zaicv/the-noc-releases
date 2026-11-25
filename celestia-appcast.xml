@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.94.0</title>
+      <pubDate>Tue, 24 Nov 2026 18:45:36 -0600</pubDate>
+      <sparkle:version>202611241833</sparkle:version>
+      <sparkle:shortVersionString>1.94.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Voice V2: the pause before she answers and the conversation idle time are kept at home and shared by every device (person_settings, contract 16); his own words for the transcriber live in Phoebe/Person/words.md.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.94.0/Celestia-1.94.0.dmg" length="8072376" type="application/octet-stream" sparkle:edSignature="rbSVitTt4YgJF6Il/Wu6RWyxAR63PeQhMjMwaNqp7vqNfm37csV/4u/VJSNVKwUVYtDdzlSvnO2t6L136DHPAg==" />
+    </item>
+    <item>
       <title>Version 1.93.0</title>
       <pubDate>Tue, 24 Nov 2026 10:37:18 -0600</pubDate>
       <sparkle:version>202611241026</sparkle:version>
