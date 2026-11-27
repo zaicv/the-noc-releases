@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.96.0</title>
+      <pubDate>Fri, 27 Nov 2026 11:30:42 -0600</pubDate>
+      <sparkle:version>202611271119</sparkle:version>
+      <sparkle:shortVersionString>1.96.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The Continuum app's home half: atlas_graph and continuum_complete, search without the local model while typing (contract 18)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.96.0/Celestia-1.96.0.dmg" length="8123105" type="application/octet-stream" sparkle:edSignature="t8nP92LTLQ1R/uibcpe81D9vT7o9dgY0DHL6kQHbzmL+JwwJ4Q0t0y7veyjlltAXZkvMaMryaDeRLtzolyVPDA==" />
+    </item>
+    <item>
       <title>Version 1.95.2</title>
       <pubDate>Fri, 27 Nov 2026 09:54:21 -0600</pubDate>
       <sparkle:version>202611270945</sparkle:version>
