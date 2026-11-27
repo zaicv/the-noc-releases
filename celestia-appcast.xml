@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.95.2</title>
+      <pubDate>Fri, 27 Nov 2026 09:54:21 -0600</pubDate>
+      <sparkle:version>202611270945</sparkle:version>
+      <sparkle:shortVersionString>1.95.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Threads: every event has an order, a turn and a time; streams resume where they left off; lists update from events. Voice: a turn's id comes from the device, a dropped stream replays what it missed, and a conversation survives a restart. Contract 17.</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.95.2/Celestia-1.95.2.dmg" length="8115762" type="application/octet-stream" sparkle:edSignature="nWIOq9h7xREuuYIbvS9BE50Sok7PnZIJX3jOXDd6gP+50MVh9+TKvcZbvbABLHvAbw4+paGrjK5ttWGVkclYBg==" />
+    </item>
+    <item>
       <title>Version 1.94.0</title>
       <pubDate>Tue, 24 Nov 2026 18:45:36 -0600</pubDate>
       <sparkle:version>202611241833</sparkle:version>
