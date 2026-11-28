@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.97.2</title>
+      <pubDate>Fri, 27 Nov 2026 21:32:58 -0600</pubDate>
+      <sparkle:version>202611272132</sparkle:version>
+      <sparkle:shortVersionString>1.97.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>A message a Claude Code hook holds now ends the turn as a failure that says why, instead of an empty reply. Test turns are no longer written to a Being's journal. Contract 20. (shipped without the soak gate)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.97.2/Celestia-1.97.2.dmg" length="8474169" type="application/octet-stream" sparkle:edSignature="n0QYa+N3BwrnKmK4i1m8g1eFJF+LMjOvWr566uCg/UZtFvLAtEi7WI+EPNjoOnDex6boMkSkASf0PeQWJHLRDA==" />
+    </item>
+    <item>
       <title>Version 1.97.1</title>
       <pubDate>Fri, 27 Nov 2026 19:14:21 -0600</pubDate>
       <sparkle:version>202611271913</sparkle:version>
