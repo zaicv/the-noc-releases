@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.99.1</title>
+      <pubDate>Sat, 28 Nov 2026 12:00:38 -0600</pubDate>
+      <sparkle:version>202611281159</sparkle:version>
+      <sparkle:shortVersionString>1.99.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Home no longer stops answering with about 30 agent conversations open at once; Intersect exams grade in one call, close their conversations, and stop before your Claude limit would move them to a paid standby. Soak gate skipped on Isaiah's word: drill 28 write_file p95 is over 300 ms on earlier versions too (O-220) (shipped without the soak gate)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.99.1/Celestia-1.99.1.dmg" length="8584326" type="application/octet-stream" sparkle:edSignature="l9nX9ROHJ9z06HjL+eyVbYE5Ujrq7DeTPS0n61EWvDUIM+VOYinPCYM6uAhBDNAuDAVlbpokpbKvEu7h5h0sCQ==" />
+    </item>
+    <item>
       <title>Version 1.99.0</title>
       <pubDate>Sat, 28 Nov 2026 09:03:53 -0600</pubDate>
       <sparkle:version>202611280902</sparkle:version>
