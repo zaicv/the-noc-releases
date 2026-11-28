@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.99.0</title>
+      <pubDate>Sat, 28 Nov 2026 09:03:53 -0600</pubDate>
+      <sparkle:version>202611280902</sparkle:version>
+      <sparkle:shortVersionString>1.99.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>Memory is a folder per kind; every Being talks as itself, in its own settings; Intersects on the household shelf that load at wake, are recalled, change only with your yes, and are scored by one exam (contract 22). Soak gate skipped on Isaiah's word: drill 28 write_file p95 is over 300 ms on 1.98.2 too (O-220) (shipped without the soak gate)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.99.0/Celestia-1.99.0.dmg" length="8582788" type="application/octet-stream" sparkle:edSignature="kSRVEpHgd/i1SgtjLZ+EHal6VofpYeftIQHu1P6cvjP7pea9lwmERG4YTYwYm8D2ti5lnzzNHYyzkZaLGLd1AA==" />
+    </item>
+    <item>
       <title>Version 1.98.2</title>
       <pubDate>Fri, 27 Nov 2026 23:41:28 -0600</pubDate>
       <sparkle:version>202611272337</sparkle:version>
