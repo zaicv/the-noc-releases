@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.98.2</title>
+      <pubDate>Fri, 27 Nov 2026 23:41:28 -0600</pubDate>
+      <sparkle:version>202611272337</sparkle:version>
+      <sparkle:shortVersionString>1.98.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>The history comes home: imported past sessions per Being, a history line in each wake, recall_memory scope history (contract 21) (shipped without the soak gate)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.98.2/Celestia-1.98.2.dmg" length="8492982" type="application/octet-stream" sparkle:edSignature="76EjtP8w9qbABC4iZv8UEyMWViqjQJ/V+4T1P882m66kcgWL+o0TxttKwN1EoibL4ot33CD8f1B2rD4SOLFUBw==" />
+    </item>
+    <item>
       <title>Version 1.97.2</title>
       <pubDate>Fri, 27 Nov 2026 21:32:58 -0600</pubDate>
       <sparkle:version>202611272132</sparkle:version>
