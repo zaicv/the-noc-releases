@@ -5,6 +5,15 @@
     <description>Your vault, as a place in Finder.</description>
     <language>en</language>
     <item>
+      <title>Version 1.97.1</title>
+      <pubDate>Fri, 27 Nov 2026 19:14:21 -0600</pubDate>
+      <sparkle:version>202611271913</sparkle:version>
+      <sparkle:shortVersionString>1.97.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+      <description>BCS recall from the live check: static Continuum search so recall answers while the owner is busy, thread metadata left out, stopwords in the fallback. (shipped without the soak gate)</description>
+      <enclosure url="https://github.com/zaicv/the-noc-releases/releases/download/celestia-v1.97.1/Celestia-1.97.1.dmg" length="8473607" type="application/octet-stream" sparkle:edSignature="7paWhN2FpoYAp0WfYeVwQsM9IwLAJcak9bUwJpAld+EKXNemzmUXlmRa0G89asgNgoOtGYfqcelMuUSdImy1BA==" />
+    </item>
+    <item>
       <title>Version 1.97.0</title>
       <pubDate>Fri, 27 Nov 2026 17:48:45 -0600</pubDate>
       <sparkle:version>202611271747</sparkle:version>
